@@ -1,0 +1,1201 @@
+student_id,gender,age,school,address,parental_education,study_time,test_preparation,internet_access,family_support,extracurricular_activities,lunch_type,absences,math_score,reading_score,writing_score,average_score,pass_status
+STU10001,Male,18,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,3,66.1,70.7,71.9,69.6,Pass
+STU10002,Female,18,School B,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Standard,3,67.8,71.6,61.9,67.1,Pass
+STU10003,Male,20,School B,Urban,High School,2-5 hours,Completed,Yes,No,No,Standard,9,64.8,62.9,61.6,63.1,Pass
+STU10004,Male,19,School B,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,8,53.8,68.9,70.9,64.5,Pass
+STU10005,Female,15,School B,Rural,Bachelor,<2 hours,None,No,Yes,Yes,Standard,3,60.6,68.1,73.2,67.3,Pass
+STU10006,Male,15,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,2,78.6,72.6,74.1,75.1,Pass
+STU10007,Male,18,School A,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,5,66.3,61.2,72.8,66.8,Pass
+STU10008,Male,18,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Reduced,8,65.6,82.8,69.0,72.5,Pass
+STU10009,Female,17,School A,Urban,Some College,5-10 hours,Completed,No,No,Yes,Reduced,3,63.3,71.3,71.1,68.6,Pass
+STU10010,Female,17,School B,Urban,Associate,5-10 hours,None,Yes,Yes,No,Standard,13,68.2,73.0,75.8,72.3,Pass
+STU10011,Female,19,School B,Urban,Associate,5-10 hours,None,Yes,No,Yes,Reduced,9,69.5,79.6,81.9,77.0,Pass
+STU10012,Male,20,School B,Urban,Bachelor,5-10 hours,None,Yes,No,No,Standard,10,58.5,63.3,59.1,60.3,Pass
+STU10013,Male,18,School A,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,7,70.7,79.1,86.3,78.7,Pass
+STU10014,Male,17,School A,Rural,Master,2-5 hours,None,Yes,Yes,No,Standard,5,63.2,77.7,68.8,69.9,Pass
+STU10015,Female,17,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,3,77.4,67.5,66.9,70.6,Pass
+STU10016,Female,18,School A,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Standard,4,75.1,69.9,84.5,76.5,Pass
+STU10017,Male,17,School A,Urban,High School,<2 hours,None,No,Yes,No,Reduced,6,51.4,55.7,58.4,55.2,Pass
+STU10018,Female,18,School A,Urban,Associate,5-10 hours,None,Yes,Yes,No,Reduced,7,60.0,62.5,63.7,62.1,Pass
+STU10019,Male,19,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,6,77.6,79.7,71.6,76.3,Pass
+STU10020,Male,15,School B,Rural,Associate,>10 hours,Completed,Yes,No,Yes,Standard,1,80.8,82.0,75.6,79.5,Pass
+STU10021,Male,15,School A,Urban,Bachelor,>10 hours,Completed,Yes,Yes,No,Standard,2,94.3,87.0,91.4,90.9,Pass
+STU10022,Female,16,School A,Urban,Some College,5-10 hours,Completed,Yes,No,Yes,Standard,6,65.9,70.7,72.4,69.7,Pass
+STU10023,Male,20,School B,Urban,Associate,<2 hours,None,Yes,No,Yes,Standard,8,68.5,72.1,70.8,70.5,Pass
+STU10024,Male,18,School A,Rural,Bachelor,5-10 hours,Completed,No,No,Yes,Standard,4,60.7,60.9,54.8,58.8,Pass
+STU10025,Male,16,School B,Urban,Some College,5-10 hours,None,Yes,No,Yes,Standard,7,62.5,69.9,69.2,67.2,Pass
+STU10026,Female,20,School B,Urban,Some College,5-10 hours,Completed,Yes,No,No,Standard,7,80.4,84.4,80.7,81.8,Pass
+STU10027,Female,18,School A,Rural,High School,<2 hours,Completed,Yes,Yes,No,Reduced,19,55.2,55.5,56.4,55.7,Pass
+STU10028,Female,18,School B,Urban,Some College,<2 hours,Completed,Yes,Yes,Yes,Standard,6,64.9,54.9,71.3,63.7,Pass
+STU10029,Female,21,School A,Urban,Bachelor,>10 hours,Completed,No,No,No,Standard,3,67.3,75.4,87.6,76.8,Pass
+STU10030,Male,15,School B,Urban,Master,<2 hours,None,Yes,Yes,Yes,Standard,4,51.1,53.6,59.9,54.9,Pass
+STU10031,Male,16,School B,Urban,Associate,2-5 hours,Completed,Yes,No,No,Standard,1,66.9,66.0,70.5,67.8,Pass
+STU10032,Male,18,School B,Rural,Some College,2-5 hours,Completed,Yes,No,Yes,Standard,7,76.0,86.4,78.2,80.2,Pass
+STU10033,Female,16,School A,Urban,Bachelor,<2 hours,Completed,No,Yes,Yes,Reduced,9,67.5,68.0,67.1,67.5,Pass
+STU10034,Female,19,School A,Urban,Bachelor,<2 hours,Completed,Yes,Yes,No,Standard,3,67.3,78.8,73.5,73.2,Pass
+STU10035,Female,16,School B,Urban,Some College,>10 hours,None,Yes,Yes,Yes,Standard,7,52.2,64.7,56.2,57.7,Pass
+STU10036,Female,16,School B,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Reduced,6,63.8,69.0,69.7,67.5,Pass
+STU10037,Female,16,School A,Rural,High School,>10 hours,Completed,Yes,Yes,Yes,Standard,4,88.5,82.0,77.2,82.6,Pass
+STU10038,Female,17,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,1,65.8,71.3,69.2,68.8,Pass
+STU10039,Female,16,School A,Rural,High School,2-5 hours,None,No,Yes,Yes,Reduced,7,48.6,61.0,58.2,55.9,Pass
+STU10040,Male,16,School B,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,14,56.2,62.2,55.6,58.0,Pass
+STU10041,Female,20,School B,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,3,66.1,74.7,70.1,70.3,Pass
+STU10042,Male,17,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,No,Reduced,7,65.5,53.2,62.4,60.4,Pass
+STU10043,Male,17,School A,Rural,Some College,5-10 hours,None,Yes,No,Yes,Reduced,8,52.5,63.5,60.8,58.9,Pass
+STU10044,Female,15,School A,Urban,Some College,>10 hours,None,Yes,Yes,No,Standard,0,73.4,71.8,68.8,71.3,Pass
+STU10045,Male,17,School A,Urban,Some College,2-5 hours,None,Yes,No,Yes,Standard,2,65.9,63.7,66.3,65.3,Pass
+STU10046,Male,17,School A,Rural,Some College,2-5 hours,None,Yes,Yes,No,Standard,1,75.5,72.3,68.8,72.2,Pass
+STU10047,Female,18,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,14,65.1,59.8,63.5,62.8,Pass
+STU10048,Female,16,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,Yes,Standard,2,56.9,57.7,55.2,56.6,Pass
+STU10049,Male,20,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,4,69.6,80.9,62.7,71.1,Pass
+STU10050,Female,21,School A,Rural,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,6,70.6,69.6,77.0,72.4,Pass
+STU10051,Female,16,School A,Urban,High School,2-5 hours,None,No,No,Yes,Standard,3,48.9,58.2,63.2,56.8,Pass
+STU10052,Female,16,School B,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,0,68.8,72.3,71.9,71.0,Pass
+STU10053,Male,16,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,No,Standard,4,69.8,67.5,66.6,68.0,Pass
+STU10054,Male,18,School B,Urban,High School,2-5 hours,None,No,Yes,No,Standard,3,39.6,48.5,46.8,45.0,Pass
+STU10055,Male,16,School A,Urban,High School,<2 hours,None,Yes,No,No,Reduced,8,66.8,64.6,77.7,69.7,Pass
+STU10056,Male,20,School A,Urban,Master,<2 hours,Completed,Yes,No,Yes,Standard,9,64.7,79.2,72.7,72.2,Pass
+STU10057,Female,19,School A,Urban,Associate,<2 hours,None,No,Yes,No,Standard,3,38.2,50.8,64.5,51.2,Pass
+STU10058,Male,19,School A,Urban,Associate,2-5 hours,None,No,Yes,No,Reduced,4,64.5,85.7,73.9,74.7,Pass
+STU10059,Female,18,School A,Rural,High School,5-10 hours,None,Yes,No,No,Standard,3,64.0,67.7,64.7,65.5,Pass
+STU10060,Female,22,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,8,53.8,74.0,76.0,67.9,Pass
+STU10061,Male,15,School B,Urban,Associate,2-5 hours,None,No,Yes,Yes,Standard,5,58.1,64.2,66.9,63.1,Pass
+STU10062,Female,17,School A,Rural,Bachelor,2-5 hours,None,Yes,No,No,Reduced,3,60.6,71.1,82.6,71.4,Pass
+STU10063,Male,17,School A,Rural,Some College,<2 hours,None,Yes,Yes,Yes,Standard,11,54.5,55.4,61.0,57.0,Pass
+STU10064,Male,21,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Reduced,3,76.2,64.3,70.3,70.3,Pass
+STU10065,Male,18,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,3,77.5,89.8,78.7,82.0,Pass
+STU10066,Male,19,School B,Urban,High School,5-10 hours,Completed,Yes,No,Yes,Standard,2,70.8,71.3,77.7,73.3,Pass
+STU10067,Male,16,School B,Urban,Some College,2-5 hours,Completed,Yes,No,Yes,Standard,5,74.1,61.7,67.0,67.6,Pass
+STU10068,Female,22,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Reduced,4,67.9,64.8,70.5,67.7,Pass
+STU10069,Female,18,School A,Urban,Some College,2-5 hours,None,Yes,No,No,Standard,12,56.5,65.8,74.7,65.7,Pass
+STU10070,Female,18,School A,Urban,Associate,<2 hours,Completed,Yes,No,No,Standard,6,69.7,66.3,54.4,63.5,Pass
+STU10071,Female,22,School A,Urban,Some College,>10 hours,None,Yes,Yes,Yes,Standard,2,79.8,79.2,80.5,79.8,Pass
+STU10072,Female,17,School B,Urban,High School,<2 hours,None,Yes,No,Yes,Standard,6,50.3,57.6,52.4,53.4,Pass
+STU10073,Male,17,School B,Urban,Bachelor,<2 hours,Completed,Yes,No,No,Standard,14,68.6,69.1,70.9,69.5,Pass
+STU10074,Female,18,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,Yes,Standard,3,64.2,72.0,67.3,67.8,Pass
+STU10075,Female,16,School A,Rural,Associate,5-10 hours,None,Yes,Yes,No,Standard,7,81.9,76.5,79.6,79.3,Pass
+STU10076,Female,17,School A,Rural,Associate,2-5 hours,None,Yes,Yes,Yes,Reduced,2,70.4,77.8,73.1,73.8,Pass
+STU10077,Female,16,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,11,78.5,73.1,75.4,75.7,Pass
+STU10078,Male,16,School A,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Reduced,4,50.8,58.2,56.3,55.1,Pass
+STU10079,Male,20,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,3,72.1,71.1,76.5,73.2,Pass
+STU10080,Male,18,School B,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,12,61.5,66.1,60.2,62.6,Pass
+STU10081,Male,17,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Reduced,6,55.0,62.5,65.5,61.0,Pass
+STU10082,Female,17,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Reduced,7,53.5,51.4,49.7,51.5,Pass
+STU10083,Male,17,School A,Urban,Associate,2-5 hours,Completed,Yes,No,No,Standard,3,57.1,71.4,67.5,65.3,Pass
+STU10084,Female,18,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,No,Standard,5,77.3,83.0,83.0,81.1,Pass
+STU10085,Female,21,School B,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Reduced,3,66.6,70.1,73.5,70.1,Pass
+STU10086,Female,21,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Reduced,7,69.3,69.8,67.3,68.8,Pass
+STU10087,Male,17,School B,Urban,High School,2-5 hours,None,No,No,Yes,Standard,1,62.3,64.8,55.4,60.8,Pass
+STU10088,Female,17,School B,Rural,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,9,66.3,67.3,74.3,69.3,Pass
+STU10089,Female,18,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,2,63.8,71.8,68.3,68.0,Pass
+STU10090,Female,18,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,Yes,Standard,5,73.1,82.5,84.5,80.0,Pass
+STU10091,Female,18,School B,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Standard,4,80.6,83.6,76.6,80.3,Pass
+STU10092,Male,18,School A,Urban,Some College,<2 hours,Completed,No,Yes,Yes,Standard,4,68.9,69.6,74.3,70.9,Pass
+STU10093,Female,18,School A,Urban,Some College,2-5 hours,None,Yes,No,No,Standard,4,61.8,74.4,64.3,66.8,Pass
+STU10094,Female,17,School B,Urban,Some College,2-5 hours,Completed,No,Yes,Yes,Standard,6,69.3,69.9,58.1,65.8,Pass
+STU10095,Female,17,School B,Rural,Bachelor,>10 hours,None,Yes,Yes,No,Standard,12,75.9,77.5,70.4,74.6,Pass
+STU10096,Male,17,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,3,67.1,80.1,69.9,72.4,Pass
+STU10097,Female,16,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,2,56.5,63.2,64.6,61.4,Pass
+STU10098,Female,16,School A,Urban,Associate,2-5 hours,Completed,No,Yes,No,Standard,10,65.9,73.9,70.0,69.9,Pass
+STU10099,Female,19,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Reduced,8,69.8,79.8,68.6,72.7,Pass
+STU10100,Male,17,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,Yes,Standard,3,87.3,88.2,82.4,86.0,Pass
+STU10101,Male,16,School A,Rural,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,1,76.5,78.2,67.4,74.0,Pass
+STU10102,Male,18,School B,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,7,72.6,78.6,77.9,76.4,Pass
+STU10103,Female,19,School B,Urban,High School,5-10 hours,None,Yes,No,Yes,Standard,5,75.4,84.3,78.0,79.2,Pass
+STU10104,Male,17,School B,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,14,84.8,81.2,82.8,82.9,Pass
+STU10105,Male,20,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,7,66.7,68.7,70.1,68.5,Pass
+STU10106,Male,21,School A,Urban,Associate,>10 hours,None,Yes,Yes,Yes,Standard,3,77.3,76.7,86.0,80.0,Pass
+STU10107,Female,18,School B,Urban,Bachelor,>10 hours,Completed,Yes,No,No,Standard,2,82.6,80.2,80.7,81.2,Pass
+STU10108,Female,19,School B,Urban,High School,<2 hours,None,Yes,No,Yes,Standard,6,67.1,57.4,62.0,62.2,Pass
+STU10109,Female,15,School A,Urban,Bachelor,2-5 hours,Completed,No,No,No,Standard,1,75.4,89.1,84.6,83.0,Pass
+STU10110,Male,21,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,1,67.8,69.0,67.9,68.2,Pass
+STU10111,Female,17,School A,Rural,High School,<2 hours,Completed,Yes,No,No,Standard,3,69.2,74.4,71.9,71.8,Pass
+STU10112,Female,21,School A,Rural,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,3,65.1,64.6,68.1,65.9,Pass
+STU10113,Female,18,School A,Rural,Some College,2-5 hours,Completed,Yes,No,No,Reduced,5,65.8,79.9,72.7,72.8,Pass
+STU10114,Male,15,School A,Rural,Master,>10 hours,None,No,No,No,Standard,7,86.0,81.5,83.4,83.6,Pass
+STU10115,Female,15,School A,Rural,Some College,2-5 hours,Completed,Yes,Yes,No,Standard,11,75.8,71.6,80.9,76.1,Pass
+STU10116,Male,19,School B,Rural,Bachelor,5-10 hours,Completed,Yes,Yes,No,Standard,9,70.2,81.8,85.6,79.2,Pass
+STU10117,Male,18,School A,Urban,Bachelor,2-5 hours,None,No,Yes,Yes,Standard,8,73.6,74.6,82.0,76.7,Pass
+STU10118,Male,15,School A,Rural,Associate,<2 hours,None,Yes,Yes,No,Standard,4,57.2,58.1,62.1,59.1,Pass
+STU10119,Female,19,School A,Rural,Master,5-10 hours,None,Yes,No,No,Standard,2,76.6,79.1,76.4,77.4,Pass
+STU10120,Male,20,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,Yes,Standard,7,64.9,77.9,61.4,68.1,Pass
+STU10121,Male,18,School A,Urban,Some College,<2 hours,Completed,Yes,No,Yes,Standard,7,49.4,55.8,61.0,55.4,Pass
+STU10122,Male,18,School A,Urban,High School,2-5 hours,Completed,Yes,No,No,Standard,2,74.9,69.8,62.8,69.2,Pass
+STU10123,Female,15,School A,Rural,Some College,5-10 hours,Completed,No,Yes,No,Standard,4,55.2,66.6,56.2,59.3,Pass
+STU10124,Female,19,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Reduced,3,66.2,72.9,68.8,69.3,Pass
+STU10125,Female,17,School B,Rural,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,3,63.2,75.1,68.5,68.9,Pass
+STU10126,Female,20,School A,Rural,Some College,2-5 hours,Completed,Yes,No,Yes,Reduced,6,61.8,60.1,62.6,61.5,Pass
+STU10127,Female,17,School B,Rural,High School,2-5 hours,None,Yes,Yes,Yes,Standard,8,65.9,66.1,74.6,68.9,Pass
+STU10128,Female,18,School B,Urban,Associate,<2 hours,None,Yes,Yes,No,Standard,14,72.0,72.7,68.2,71.0,Pass
+STU10129,Female,17,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,4,60.8,82.2,70.5,71.2,Pass
+STU10130,Male,16,School A,Rural,Some College,<2 hours,None,Yes,No,Yes,Reduced,3,70.0,62.9,74.2,69.0,Pass
+STU10131,Female,19,School A,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,15,53.1,66.9,77.4,65.8,Pass
+STU10132,Male,18,School A,Rural,Associate,5-10 hours,None,Yes,Yes,No,Standard,16,92.5,90.5,90.2,91.1,Pass
+STU10133,Male,18,School B,Urban,Bachelor,5-10 hours,Completed,Yes,No,No,Standard,25,58.7,71.6,69.4,66.6,Pass
+STU10134,Female,21,School A,Urban,Some College,2-5 hours,None,No,Yes,Yes,Reduced,20,65.1,52.0,52.0,56.4,Pass
+STU10135,Male,21,School B,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Reduced,6,63.1,69.4,60.3,64.3,Pass
+STU10136,Female,20,School A,Rural,High School,2-5 hours,None,Yes,Yes,Yes,Standard,5,80.5,84.1,75.4,80.0,Pass
+STU10137,Male,16,School B,Urban,Some College,>10 hours,None,Yes,Yes,No,Standard,8,75.0,65.6,66.2,68.9,Pass
+STU10138,Female,18,School A,Urban,Bachelor,<2 hours,None,No,Yes,No,Reduced,3,52.8,65.4,55.7,58.0,Pass
+STU10139,Male,20,School A,Rural,Associate,<2 hours,Completed,Yes,Yes,Yes,Reduced,4,73.6,75.5,79.1,76.1,Pass
+STU10140,Female,17,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Reduced,5,55.4,64.6,52.3,57.4,Pass
+STU10141,Female,16,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Standard,11,74.8,81.8,66.7,74.4,Pass
+STU10142,Female,19,School A,Urban,High School,<2 hours,Completed,Yes,Yes,No,Standard,11,69.1,76.4,71.4,72.3,Pass
+STU10143,Male,18,School A,Rural,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,6,61.4,67.4,67.9,65.6,Pass
+STU10144,Male,18,School A,Urban,Master,5-10 hours,Completed,No,Yes,Yes,Standard,1,99.7,99.8,99.2,99.6,Pass
+STU10145,Female,22,School A,Urban,Associate,2-5 hours,Completed,Yes,No,No,Standard,8,52.8,60.0,58.8,57.2,Pass
+STU10146,Female,18,School A,Urban,Bachelor,5-10 hours,None,Yes,No,No,Standard,1,65.3,72.3,65.6,67.7,Pass
+STU10147,Female,17,School B,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Standard,3,75.9,77.0,70.2,74.4,Pass
+STU10148,Male,17,School A,Rural,Bachelor,2-5 hours,None,Yes,No,No,Reduced,6,79.6,90.4,82.8,84.3,Pass
+STU10149,Female,17,School A,Urban,Associate,>10 hours,Completed,Yes,No,Yes,Standard,1,91.0,89.3,94.7,91.7,Pass
+STU10150,Female,16,School A,Urban,Bachelor,5-10 hours,Completed,Yes,Yes,Yes,Standard,2,98.6,87.8,90.7,92.4,Pass
+STU10151,Male,19,School A,Urban,High School,5-10 hours,Completed,Yes,No,Yes,Standard,9,63.5,60.8,67.7,64.0,Pass
+STU10152,Male,20,School A,Urban,Bachelor,5-10 hours,Completed,Yes,No,No,Reduced,8,67.3,72.2,73.8,71.1,Pass
+STU10153,Female,17,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Reduced,2,57.8,53.8,64.3,58.6,Pass
+STU10154,Male,17,School B,Rural,Master,2-5 hours,None,Yes,Yes,No,Standard,6,68.1,65.1,64.8,66.0,Pass
+STU10155,Female,20,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,1,71.3,74.0,71.2,72.2,Pass
+STU10156,Male,15,School B,Urban,High School,<2 hours,Completed,Yes,Yes,No,Standard,8,65.8,74.0,72.2,70.7,Pass
+STU10157,Female,18,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Reduced,3,68.5,64.9,71.1,68.2,Pass
+STU10158,Male,18,School A,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Standard,5,63.2,69.5,70.5,67.7,Pass
+STU10159,Male,19,School A,Rural,Some College,<2 hours,Completed,Yes,Yes,Yes,Standard,6,65.5,59.8,59.3,61.5,Pass
+STU10160,Male,16,School A,Urban,Bachelor,>10 hours,None,Yes,Yes,No,Reduced,2,84.8,87.9,84.2,85.6,Pass
+STU10161,Female,19,School A,Rural,High School,5-10 hours,None,Yes,No,Yes,Standard,2,54.5,61.0,69.6,61.7,Pass
+STU10162,Male,17,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,13,54.8,64.3,64.9,61.3,Pass
+STU10163,Female,18,School B,Urban,Associate,2-5 hours,None,Yes,No,No,Standard,4,64.0,72.0,70.2,68.7,Pass
+STU10164,Female,15,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,5,52.0,67.1,56.0,58.4,Pass
+STU10165,Male,18,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,5,82.8,80.3,77.4,80.2,Pass
+STU10166,Female,18,School A,Rural,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,11,70.1,73.1,73.5,72.2,Pass
+STU10167,Male,16,School A,Urban,Some College,2-5 hours,Completed,No,Yes,Yes,Standard,8,77.7,74.2,72.9,74.9,Pass
+STU10168,Male,16,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Reduced,2,64.2,64.6,78.9,69.2,Pass
+STU10169,Female,16,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,12,53.6,54.5,58.0,55.4,Pass
+STU10170,Male,17,School B,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,15,81.9,85.8,73.0,80.2,Pass
+STU10171,Female,16,School A,Rural,Associate,>10 hours,Completed,Yes,Yes,Yes,Standard,2,77.6,88.5,75.1,80.4,Pass
+STU10172,Female,21,School A,Rural,High School,2-5 hours,None,No,No,No,Reduced,4,57.6,61.1,66.5,61.7,Pass
+STU10173,Female,17,School B,Urban,Some College,2-5 hours,None,Yes,No,No,Standard,4,65.1,52.3,63.9,60.4,Pass
+STU10174,Male,19,School B,Rural,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,4,66.2,66.1,73.7,68.7,Pass
+STU10175,Female,22,School A,Rural,Associate,2-5 hours,None,No,No,No,Reduced,8,69.6,76.3,77.2,74.4,Pass
+STU10176,Female,16,School A,Urban,Some College,>10 hours,Completed,Yes,Yes,Yes,Standard,4,70.6,80.6,82.2,77.8,Pass
+STU10177,Female,18,School B,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,3,72.8,66.1,66.8,68.6,Pass
+STU10178,Male,20,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Reduced,8,72.2,72.0,74.4,72.9,Pass
+STU10179,Male,18,School A,Rural,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,1,72.5,78.1,62.8,71.1,Pass
+STU10180,Male,17,School B,Rural,Master,2-5 hours,Completed,Yes,No,No,Standard,5,75.4,81.8,77.4,78.2,Pass
+STU10181,Male,17,School A,Urban,Master,<2 hours,Completed,Yes,Yes,Yes,Standard,8,61.9,74.0,68.9,68.3,Pass
+STU10182,Male,15,School B,Rural,High School,2-5 hours,Completed,Yes,Yes,Yes,Reduced,12,62.7,74.0,61.9,66.2,Pass
+STU10183,Female,18,School A,Rural,Some College,5-10 hours,None,Yes,Yes,Yes,Reduced,6,79.5,58.6,64.3,67.5,Pass
+STU10184,Female,22,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,1,88.2,81.7,82.8,84.2,Pass
+STU10185,Male,21,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,No,Standard,6,60.8,54.6,61.3,58.9,Pass
+STU10186,Male,15,School A,Rural,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,1,70.5,72.0,71.1,71.2,Pass
+STU10187,Female,19,School A,Rural,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,6,74.3,87.1,93.3,84.9,Pass
+STU10188,Female,17,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,10,64.8,67.6,73.2,68.5,Pass
+STU10189,Male,20,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,98.8,99.1,99.0,99.0,Pass
+STU10190,Female,15,School A,Urban,High School,2-5 hours,Completed,Yes,No,No,Standard,4,69.5,76.0,70.6,72.0,Pass
+STU10191,Male,21,School B,Urban,High School,5-10 hours,Completed,Yes,Yes,No,Standard,8,69.4,86.6,80.4,78.8,Pass
+STU10192,Female,20,School B,Urban,Bachelor,<2 hours,Completed,Yes,Yes,No,Standard,7,79.1,92.8,90.5,87.5,Pass
+STU10193,Female,16,School A,Urban,Bachelor,<2 hours,Completed,Yes,Yes,Yes,Standard,9,57.8,63.0,64.5,61.8,Pass
+STU10194,Male,15,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,18,49.7,59.0,57.9,55.5,Pass
+STU10195,Female,20,School A,Urban,Associate,<2 hours,None,Yes,Yes,No,Standard,4,71.0,69.3,49.8,63.4,Pass
+STU10196,Female,16,School B,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,6,69.4,63.3,83.1,71.9,Pass
+STU10197,Male,18,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,12,52.9,70.3,70.0,64.4,Pass
+STU10198,Male,20,School A,Rural,Associate,<2 hours,Completed,Yes,Yes,No,Standard,13,71.2,72.3,75.2,72.9,Pass
+STU10199,Female,18,School B,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,7,72.4,71.3,66.2,70.0,Pass
+STU10200,Female,17,School B,Urban,Associate,>10 hours,None,Yes,Yes,No,Reduced,5,81.6,89.7,96.9,89.4,Pass
+STU10201,Male,18,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Reduced,8,72.3,74.8,69.0,72.0,Pass
+STU10202,Male,15,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Reduced,8,81.4,72.3,79.8,77.8,Pass
+STU10203,Female,21,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,8,83.7,84.6,78.9,82.4,Pass
+STU10204,Female,17,School B,Urban,High School,<2 hours,None,No,No,No,Reduced,4,57.0,66.8,74.7,66.2,Pass
+STU10205,Female,16,School A,Urban,High School,<2 hours,None,Yes,Yes,No,Standard,16,51.7,59.5,50.2,53.8,Pass
+STU10206,Female,17,School A,Urban,Some College,5-10 hours,Completed,Yes,No,Yes,Standard,12,54.0,68.5,66.1,62.9,Pass
+STU10207,Female,21,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,4,64.1,66.0,56.4,62.2,Pass
+STU10208,Male,16,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,11,68.2,73.3,68.8,70.1,Pass
+STU10209,Female,20,School A,Rural,Bachelor,<2 hours,None,Yes,Yes,Yes,Standard,5,64.0,77.1,69.0,70.0,Pass
+STU10210,Female,19,School A,Rural,Some College,5-10 hours,Completed,Yes,No,No,Standard,13,64.3,62.1,61.9,62.8,Pass
+STU10211,Male,20,School B,Urban,High School,<2 hours,None,Yes,Yes,Yes,Reduced,7,63.0,63.9,58.9,61.9,Pass
+STU10212,Male,22,School B,Urban,Associate,5-10 hours,None,Yes,Yes,No,Standard,2,63.1,80.3,80.7,74.7,Pass
+STU10213,Female,20,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,17,60.2,78.1,67.6,68.6,Pass
+STU10214,Male,21,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Reduced,9,75.7,97.7,82.1,85.2,Pass
+STU10215,Male,16,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,4,73.1,73.4,65.4,70.6,Pass
+STU10216,Male,19,School A,Urban,Some College,<2 hours,None,Yes,Yes,No,Standard,15,58.5,56.8,58.8,58.0,Pass
+STU10217,Female,18,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,7,69.1,58.7,64.4,64.1,Pass
+STU10218,Female,18,School B,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,4,78.3,79.8,84.1,80.7,Pass
+STU10219,Male,20,School B,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,16,53.9,57.2,59.2,56.8,Pass
+STU10220,Female,22,School B,Rural,Some College,2-5 hours,Completed,Yes,No,No,Standard,8,67.5,80.1,80.1,75.9,Pass
+STU10221,Female,19,School B,Rural,Master,2-5 hours,Completed,No,No,Yes,Reduced,7,85.0,82.6,80.9,82.8,Pass
+STU10222,Female,18,School B,Urban,Bachelor,<2 hours,Completed,Yes,No,No,Standard,6,57.4,67.5,62.8,62.6,Pass
+STU10223,Male,18,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,2,79.2,76.2,90.6,82.0,Pass
+STU10224,Male,17,School B,Urban,Associate,<2 hours,None,Yes,Yes,No,Reduced,2,83.4,69.0,68.2,73.5,Pass
+STU10225,Female,17,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,8,75.6,78.8,81.2,78.5,Pass
+STU10226,Male,17,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Standard,3,62.4,53.6,60.6,58.9,Pass
+STU10227,Female,16,School A,Urban,Some College,2-5 hours,None,Yes,No,Yes,Standard,2,51.6,56.7,69.7,59.3,Pass
+STU10228,Male,15,School A,Urban,Some College,2-5 hours,Completed,No,Yes,No,Standard,4,75.8,60.6,66.8,67.7,Pass
+STU10229,Male,19,School A,Rural,Associate,2-5 hours,None,Yes,Yes,Yes,Reduced,5,69.2,70.3,74.0,71.2,Pass
+STU10230,Female,18,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,2,72.5,71.3,72.9,72.2,Pass
+STU10231,Female,21,School A,Urban,High School,5-10 hours,None,Yes,No,Yes,Standard,8,50.6,45.9,44.6,47.0,Pass
+STU10232,Female,18,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Reduced,2,66.0,68.7,68.9,67.9,Pass
+STU10233,Male,15,School B,Urban,High School,5-10 hours,None,Yes,No,No,Standard,8,75.6,74.2,66.8,72.2,Pass
+STU10234,Male,16,School A,Urban,Associate,2-5 hours,Completed,Yes,No,Yes,Standard,4,78.8,81.9,83.6,81.4,Pass
+STU10235,Male,16,School A,Urban,Associate,2-5 hours,Completed,Yes,No,No,Reduced,3,67.9,81.9,76.2,75.3,Pass
+STU10236,Male,22,School A,Urban,High School,<2 hours,None,Yes,Yes,No,Reduced,3,53.9,61.2,55.3,56.8,Pass
+STU10237,Female,16,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,5,68.7,72.5,72.1,71.1,Pass
+STU10238,Male,18,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,2,73.7,76.1,82.3,77.4,Pass
+STU10239,Female,21,School B,Rural,Bachelor,5-10 hours,Completed,Yes,No,Yes,Reduced,2,84.5,81.9,83.9,83.4,Pass
+STU10240,Female,22,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Reduced,13,73.4,75.0,67.5,72.0,Pass
+STU10241,Male,16,School B,Urban,High School,5-10 hours,None,Yes,Yes,No,Standard,1,73.8,83.4,60.6,72.6,Pass
+STU10242,Male,15,School B,Urban,High School,<2 hours,None,No,Yes,Yes,Standard,2,66.2,56.1,66.9,63.1,Pass
+STU10243,Female,16,School A,Urban,Some College,<2 hours,None,Yes,Yes,No,Standard,8,59.5,72.7,68.7,67.0,Pass
+STU10244,Male,15,School B,Urban,Some College,5-10 hours,Completed,Yes,Yes,Yes,Reduced,6,67.6,75.7,76.4,73.2,Pass
+STU10245,Male,16,School A,Rural,High School,<2 hours,Completed,Yes,Yes,No,Reduced,5,54.7,55.8,60.1,56.9,Pass
+STU10246,Male,18,School B,Urban,Master,<2 hours,None,Yes,Yes,No,Standard,3,79.7,71.6,81.3,77.5,Pass
+STU10247,Male,20,School B,Urban,High School,>10 hours,None,Yes,No,No,Standard,2,72.1,67.2,81.9,73.7,Pass
+STU10248,Female,18,School B,Urban,Bachelor,>10 hours,Completed,Yes,Yes,Yes,Standard,3,95.1,93.9,95.5,94.8,Pass
+STU10249,Female,18,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,7,60.3,54.8,66.6,60.6,Pass
+STU10250,Female,16,School B,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,5,84.3,81.2,96.2,87.2,Pass
+STU10251,Male,19,School B,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,3,78.8,86.6,89.0,84.8,Pass
+STU10252,Male,18,School A,Urban,Some College,<2 hours,Completed,No,No,Yes,Standard,5,66.4,69.3,66.2,67.3,Pass
+STU10253,Female,20,School B,Urban,Associate,2-5 hours,Completed,No,Yes,No,Reduced,8,60.4,65.4,58.8,61.5,Pass
+STU10254,Female,21,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,2,83.0,72.7,89.1,81.6,Pass
+STU10255,Female,17,School A,Urban,Bachelor,>10 hours,None,Yes,Yes,Yes,Standard,1,64.8,72.9,73.3,70.3,Pass
+STU10256,Male,16,School B,Urban,Some College,>10 hours,None,Yes,Yes,No,Reduced,12,88.1,95.9,95.1,93.0,Pass
+STU10257,Male,16,School A,Rural,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,3,72.0,62.7,67.4,67.4,Pass
+STU10258,Female,17,School A,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Standard,17,74.0,71.7,83.4,76.4,Pass
+STU10259,Female,21,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,3,69.7,72.2,62.5,68.1,Pass
+STU10260,Male,17,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Reduced,5,75.5,78.7,76.2,76.8,Pass
+STU10261,Female,19,School B,Urban,High School,5-10 hours,None,Yes,Yes,Yes,Standard,2,68.7,64.4,65.8,66.3,Pass
+STU10262,Male,18,School A,Urban,High School,<2 hours,None,Yes,Yes,No,Standard,7,58.2,67.2,65.6,63.7,Pass
+STU10263,Female,16,School A,Urban,Some College,<2 hours,Completed,No,Yes,Yes,Standard,5,68.3,82.5,81.7,77.5,Pass
+STU10264,Female,17,School A,Urban,High School,5-10 hours,None,No,No,Yes,Standard,4,77.5,75.4,67.9,73.6,Pass
+STU10265,Male,18,School A,Rural,Master,2-5 hours,None,Yes,Yes,Yes,Reduced,6,81.5,85.0,84.9,83.8,Pass
+STU10266,Female,19,School B,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,3,80.1,78.6,82.8,80.5,Pass
+STU10267,Female,17,School B,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Standard,7,74.4,73.3,84.3,77.3,Pass
+STU10268,Female,16,School A,Urban,Some College,5-10 hours,Completed,Yes,No,Yes,Standard,3,95.8,80.0,89.4,88.4,Pass
+STU10269,Female,19,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,6,64.9,56.7,58.8,60.1,Pass
+STU10270,Female,16,School A,Urban,Associate,<2 hours,None,No,No,Yes,Standard,2,64.7,64.6,64.4,64.6,Pass
+STU10271,Female,21,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Reduced,2,71.7,71.1,80.4,74.4,Pass
+STU10272,Female,16,School A,Urban,Some College,2-5 hours,None,Yes,No,Yes,Standard,2,65.2,72.1,74.0,70.4,Pass
+STU10273,Female,16,School A,Urban,Associate,2-5 hours,Completed,No,Yes,No,Standard,1,71.6,69.5,76.1,72.4,Pass
+STU10274,Male,18,School A,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Standard,3,53.3,64.2,55.1,57.5,Pass
+STU10275,Male,18,School A,Rural,Master,<2 hours,Completed,Yes,Yes,No,Reduced,8,67.5,67.8,66.8,67.4,Pass
+STU10276,Female,18,School A,Urban,High School,5-10 hours,None,Yes,Yes,Yes,Standard,4,73.2,67.7,75.5,72.1,Pass
+STU10277,Female,17,School A,Urban,Associate,<2 hours,None,Yes,No,Yes,Reduced,5,62.0,62.1,66.3,63.5,Pass
+STU10278,Female,22,School B,Rural,High School,5-10 hours,Completed,Yes,No,Yes,Standard,5,76.7,80.1,75.3,77.4,Pass
+STU10279,Male,18,School B,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,6,69.7,84.1,83.5,79.1,Pass
+STU10280,Male,18,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Standard,4,81.5,71.9,64.2,72.5,Pass
+STU10281,Female,17,School B,Urban,High School,5-10 hours,None,Yes,Yes,No,Standard,9,62.7,68.2,70.1,67.0,Pass
+STU10282,Female,15,School B,Rural,Associate,2-5 hours,None,Yes,Yes,No,Reduced,4,55.9,61.0,63.7,60.2,Pass
+STU10283,Female,18,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Reduced,8,82.5,81.1,80.1,81.2,Pass
+STU10284,Female,16,School A,Urban,High School,<2 hours,None,Yes,Yes,No,Standard,4,66.2,66.3,61.3,64.6,Pass
+STU10285,Male,18,School A,Rural,Master,5-10 hours,Completed,Yes,Yes,Yes,Standard,5,85.1,76.4,85.7,82.4,Pass
+STU10286,Female,15,School B,Urban,Some College,2-5 hours,None,Yes,No,No,Standard,7,51.6,76.4,75.9,68.0,Pass
+STU10287,Female,22,School A,Rural,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,7,84.5,81.2,72.6,79.4,Pass
+STU10288,Female,18,School A,Rural,Some College,>10 hours,Completed,Yes,No,No,Reduced,7,55.4,72.5,68.6,65.5,Pass
+STU10289,Male,20,School A,Rural,Master,2-5 hours,Completed,Yes,Yes,No,Reduced,3,68.7,70.9,70.5,70.0,Pass
+STU10290,Female,18,School A,Urban,Some College,5-10 hours,Completed,Yes,No,No,Standard,1,63.7,79.6,73.3,72.2,Pass
+STU10291,Male,15,School B,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,1,62.6,67.6,77.2,69.1,Pass
+STU10292,Female,20,School A,Urban,Bachelor,>10 hours,None,Yes,Yes,Yes,Standard,3,90.1,87.8,88.2,88.7,Pass
+STU10293,Male,18,School B,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,3,58.9,71.1,75.7,68.6,Pass
+STU10294,Female,19,School B,Urban,Some College,>10 hours,Completed,Yes,No,Yes,Standard,6,72.3,72.9,70.7,72.0,Pass
+STU10295,Male,17,School B,Rural,Master,<2 hours,None,Yes,Yes,Yes,Standard,6,76.4,68.3,62.1,68.9,Pass
+STU10296,Male,18,School A,Urban,Associate,5-10 hours,None,Yes,No,No,Reduced,2,69.8,82.6,77.5,76.6,Pass
+STU10297,Male,20,School B,Urban,Bachelor,5-10 hours,Completed,Yes,Yes,Yes,Reduced,9,66.7,73.7,78.6,73.0,Pass
+STU10298,Male,18,School A,Urban,Associate,5-10 hours,None,Yes,No,No,Standard,5,76.0,79.5,78.5,78.0,Pass
+STU10299,Male,17,School A,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,2,59.3,56.6,55.8,57.2,Pass
+STU10300,Male,19,School B,Urban,Bachelor,>10 hours,Completed,Yes,No,Yes,Standard,3,87.1,93.3,94.1,91.5,Pass
+STU10301,Male,19,School B,Urban,Associate,<2 hours,None,Yes,Yes,No,Standard,12,56.7,60.9,67.2,61.6,Pass
+STU10302,Female,21,School A,Rural,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,1,70.5,64.3,65.2,66.7,Pass
+STU10303,Male,17,School A,Urban,High School,2-5 hours,Completed,Yes,No,No,Reduced,12,62.1,61.7,54.6,59.5,Pass
+STU10304,Female,17,School B,Urban,Associate,<2 hours,None,Yes,Yes,No,Standard,5,50.3,64.4,57.2,57.3,Pass
+STU10305,Male,19,School B,Urban,Bachelor,5-10 hours,None,Yes,Yes,No,Standard,4,56.5,66.6,67.1,63.4,Pass
+STU10306,Female,18,School A,Urban,Associate,<2 hours,None,Yes,No,Yes,Standard,7,59.0,63.9,62.7,61.9,Pass
+STU10307,Female,19,School B,Rural,High School,5-10 hours,None,Yes,Yes,No,Standard,1,67.3,74.5,70.3,70.7,Pass
+STU10308,Male,18,School A,Rural,Some College,5-10 hours,None,Yes,No,Yes,Reduced,6,60.2,60.5,62.2,61.0,Pass
+STU10309,Female,16,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,7,65.5,64.4,64.2,64.7,Pass
+STU10310,Female,19,School A,Rural,Bachelor,5-10 hours,None,Yes,No,Yes,Standard,3,65.7,65.9,62.3,64.6,Pass
+STU10311,Female,16,School B,Urban,High School,<2 hours,None,Yes,Yes,Yes,Reduced,6,51.0,64.9,60.3,58.7,Pass
+STU10312,Female,16,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,16,69.1,76.9,76.4,74.1,Pass
+STU10313,Female,18,School A,Rural,Bachelor,>10 hours,Completed,Yes,No,Yes,Standard,8,77.4,77.3,74.4,76.4,Pass
+STU10314,Female,19,School A,Urban,Master,<2 hours,None,Yes,Yes,Yes,Standard,3,77.9,78.0,86.7,80.9,Pass
+STU10315,Female,20,School B,Urban,High School,5-10 hours,None,Yes,Yes,No,Standard,3,80.4,77.8,88.0,82.1,Pass
+STU10316,Female,17,School A,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,3,93.0,84.6,90.3,89.3,Pass
+STU10317,Female,16,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Reduced,9,54.9,55.6,55.4,55.3,Pass
+STU10318,Male,21,School B,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,2,68.9,78.4,76.5,74.6,Pass
+STU10319,Female,16,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,7,86.4,72.9,76.5,78.6,Pass
+STU10320,Male,16,School A,Urban,Associate,2-5 hours,Completed,Yes,No,No,Reduced,8,72.4,75.6,56.4,68.1,Pass
+STU10321,Male,17,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,4,84.7,80.8,81.9,82.5,Pass
+STU10322,Female,18,School B,Rural,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,8,73.0,86.0,77.0,78.7,Pass
+STU10323,Female,20,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,2,77.0,81.8,88.3,82.4,Pass
+STU10324,Male,19,School A,Rural,Associate,<2 hours,Completed,Yes,Yes,Yes,Standard,11,82.6,79.1,74.6,78.8,Pass
+STU10325,Male,19,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,1,83.4,80.6,83.3,82.4,Pass
+STU10326,Male,16,School B,Urban,High School,<2 hours,Completed,No,No,Yes,Standard,3,58.6,61.1,68.8,62.8,Pass
+STU10327,Male,17,School B,Urban,Some College,5-10 hours,None,No,Yes,Yes,Standard,1,68.8,79.4,71.9,73.4,Pass
+STU10328,Male,18,School A,Rural,High School,2-5 hours,None,Yes,Yes,Yes,Standard,2,58.1,68.4,57.9,61.5,Pass
+STU10329,Male,16,School A,Urban,Master,2-5 hours,Completed,Yes,No,Yes,Standard,7,70.5,72.9,73.2,72.2,Pass
+STU10330,Female,17,School B,Rural,Master,2-5 hours,Completed,Yes,Yes,No,Standard,6,91.1,83.7,88.6,87.8,Pass
+STU10331,Male,17,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,5,79.0,84.2,85.7,83.0,Pass
+STU10332,Female,16,School A,Urban,High School,>10 hours,Completed,Yes,No,Yes,Standard,2,73.1,71.1,68.4,70.9,Pass
+STU10333,Male,18,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,76.7,76.6,82.1,78.5,Pass
+STU10334,Male,19,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,10,55.5,71.7,72.2,66.5,Pass
+STU10335,Female,15,School A,Urban,Bachelor,5-10 hours,Completed,Yes,No,No,Standard,2,56.1,67.7,65.6,63.1,Pass
+STU10336,Male,18,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,2,73.0,80.0,73.2,75.4,Pass
+STU10337,Female,19,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,2,51.0,62.2,46.1,53.1,Pass
+STU10338,Male,19,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,5,64.7,70.4,73.0,69.4,Pass
+STU10339,Female,19,School B,Urban,High School,<2 hours,Completed,Yes,No,Yes,Reduced,8,69.0,75.0,68.2,70.7,Pass
+STU10340,Male,18,School A,Urban,Bachelor,5-10 hours,Completed,Yes,No,Yes,Standard,7,79.4,77.2,88.3,81.6,Pass
+STU10341,Female,20,School A,Urban,Associate,5-10 hours,None,Yes,No,Yes,Standard,3,85.7,88.2,84.8,86.2,Pass
+STU10342,Male,17,School B,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Reduced,4,76.5,93.0,85.9,85.1,Pass
+STU10343,Male,17,School A,Urban,Some College,5-10 hours,None,Yes,No,No,Standard,3,72.0,73.6,73.3,73.0,Pass
+STU10344,Male,16,School B,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Reduced,7,65.3,60.3,70.4,65.3,Pass
+STU10345,Male,18,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Reduced,2,75.2,64.9,78.5,72.9,Pass
+STU10346,Male,17,School B,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,4,64.2,64.1,66.2,64.8,Pass
+STU10347,Male,17,School A,Urban,Bachelor,>10 hours,None,Yes,No,Yes,Standard,4,89.0,99.1,99.0,95.7,Pass
+STU10348,Female,19,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,7,57.4,69.6,61.3,62.8,Pass
+STU10349,Male,17,School A,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Reduced,2,67.5,72.0,66.5,68.7,Pass
+STU10350,Female,17,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,No,Standard,7,70.1,63.7,71.4,68.4,Pass
+STU10351,Male,16,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Reduced,7,53.8,61.7,63.5,59.7,Pass
+STU10352,Female,17,School B,Rural,High School,>10 hours,None,Yes,No,Yes,Standard,14,74.2,74.8,79.7,76.2,Pass
+STU10353,Male,17,School B,Rural,Associate,5-10 hours,Completed,Yes,No,Yes,Standard,12,71.7,71.9,78.2,73.9,Pass
+STU10354,Male,17,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,9,72.7,90.5,87.2,83.5,Pass
+STU10355,Female,16,School B,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,1,62.1,72.4,73.2,69.2,Pass
+STU10356,Male,19,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,1,73.8,70.1,60.8,68.2,Pass
+STU10357,Male,21,School B,Rural,Some College,2-5 hours,Completed,Yes,No,No,Reduced,9,72.9,67.1,59.3,66.4,Pass
+STU10358,Male,18,School B,Rural,Associate,>10 hours,Completed,Yes,Yes,No,Standard,4,87.8,85.8,98.1,90.6,Pass
+STU10359,Female,18,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Reduced,13,73.3,71.7,67.7,70.9,Pass
+STU10360,Male,20,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Reduced,5,54.0,53.6,67.7,58.4,Pass
+STU10361,Male,22,School A,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,7,68.6,75.5,73.6,72.6,Pass
+STU10362,Female,18,School B,Urban,Master,2-5 hours,Completed,Yes,Yes,No,Standard,6,77.0,81.7,82.6,80.4,Pass
+STU10363,Female,20,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,72.9,80.9,77.8,77.2,Pass
+STU10364,Female,20,School A,Urban,Some College,<2 hours,None,Yes,No,No,Standard,10,62.2,56.2,57.0,58.5,Pass
+STU10365,Male,19,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Reduced,8,79.3,81.5,81.2,80.7,Pass
+STU10366,Female,18,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Reduced,2,57.6,60.1,72.5,63.4,Pass
+STU10367,Male,16,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Reduced,17,69.6,82.4,86.9,79.6,Pass
+STU10368,Male,15,School A,Urban,Bachelor,<2 hours,None,No,Yes,No,Standard,3,71.6,72.5,73.8,72.6,Pass
+STU10369,Female,18,School B,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,2,52.8,64.2,56.1,57.7,Pass
+STU10370,Male,18,School B,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,7,66.6,64.7,74.1,68.5,Pass
+STU10371,Male,17,School A,Rural,Bachelor,5-10 hours,None,Yes,No,Yes,Reduced,7,57.1,72.1,58.2,62.5,Pass
+STU10372,Female,18,School B,Urban,Associate,<2 hours,None,No,Yes,No,Standard,9,68.1,75.7,69.0,70.9,Pass
+STU10373,Female,18,School B,Urban,Bachelor,>10 hours,Completed,Yes,No,No,Standard,4,72.9,83.0,84.7,80.2,Pass
+STU10374,Female,20,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,No,Standard,6,64.0,70.6,61.9,65.5,Pass
+STU10375,Female,16,School B,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,2,58.0,65.4,66.8,63.4,Pass
+STU10376,Female,16,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,6,75.7,78.7,68.4,74.3,Pass
+STU10377,Male,19,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,11,65.1,69.4,64.0,66.2,Pass
+STU10378,Female,20,School A,Urban,High School,5-10 hours,Completed,Yes,No,No,Reduced,2,81.7,77.2,77.9,78.9,Pass
+STU10379,Female,22,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Reduced,10,75.5,75.5,69.5,73.5,Pass
+STU10380,Male,20,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,4,76.9,68.0,75.6,73.5,Pass
+STU10381,Male,20,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Reduced,3,76.9,74.8,70.3,74.0,Pass
+STU10382,Male,17,School A,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,2,92.6,99.6,94.3,95.5,Pass
+STU10383,Male,17,School A,Urban,High School,5-10 hours,Completed,No,No,No,Reduced,4,84.0,75.1,79.7,79.6,Pass
+STU10384,Female,17,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,No,Standard,9,75.4,77.4,70.2,74.3,Pass
+STU10385,Female,18,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,7,60.8,63.0,62.2,62.0,Pass
+STU10386,Male,21,School B,Urban,Bachelor,5-10 hours,Completed,Yes,No,Yes,Standard,1,55.7,64.7,59.2,59.9,Pass
+STU10387,Male,17,School B,Urban,High School,2-5 hours,Completed,Yes,No,No,Standard,8,73.8,75.3,82.4,77.2,Pass
+STU10388,Male,18,School A,Urban,Associate,<2 hours,None,Yes,No,Yes,Standard,9,75.6,68.6,74.6,72.9,Pass
+STU10389,Female,17,School B,Rural,Bachelor,>10 hours,None,Yes,Yes,Yes,Reduced,2,79.9,77.1,76.9,78.0,Pass
+STU10390,Male,16,School A,Rural,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,4,50.4,55.0,57.3,54.2,Pass
+STU10391,Male,16,School B,Rural,Associate,<2 hours,Completed,No,Yes,Yes,Standard,11,54.7,56.1,59.0,56.6,Pass
+STU10392,Female,15,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,4,70.3,87.7,75.9,78.0,Pass
+STU10393,Male,21,School B,Urban,High School,2-5 hours,None,Yes,Yes,No,Reduced,9,65.8,60.5,64.9,63.7,Pass
+STU10394,Male,17,School B,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Standard,2,68.4,71.2,74.7,71.4,Pass
+STU10395,Female,20,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,0,77.2,74.0,80.3,77.2,Pass
+STU10396,Female,19,School A,Urban,Master,5-10 hours,None,Yes,Yes,No,Standard,7,85.5,91.8,85.3,87.5,Pass
+STU10397,Male,16,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,3,76.0,70.9,83.0,76.6,Pass
+STU10398,Female,16,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,8,78.3,78.7,65.1,74.0,Pass
+STU10399,Female,19,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,9,51.5,58.2,66.7,58.8,Pass
+STU10400,Female,17,School B,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,3,73.3,68.2,63.4,68.3,Pass
+STU10401,Female,20,School B,Urban,Some College,<2 hours,None,Yes,No,No,Standard,5,60.6,58.4,55.9,58.3,Pass
+STU10402,Male,16,School A,Urban,High School,<2 hours,None,Yes,No,Yes,Reduced,5,55.8,80.1,77.7,71.2,Pass
+STU10403,Male,19,School A,Rural,High School,<2 hours,None,Yes,Yes,No,Standard,4,83.8,78.4,80.7,81.0,Pass
+STU10404,Female,19,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,5,73.7,67.7,75.5,72.3,Pass
+STU10405,Male,16,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Reduced,10,52.5,56.6,59.6,56.2,Pass
+STU10406,Male,17,School A,Urban,High School,5-10 hours,None,Yes,Yes,Yes,Reduced,3,47.9,56.4,54.9,53.1,Pass
+STU10407,Female,21,School A,Urban,High School,>10 hours,None,Yes,Yes,Yes,Standard,2,70.7,82.9,80.1,77.9,Pass
+STU10408,Male,17,School B,Urban,Master,<2 hours,Completed,Yes,No,No,Standard,4,81.9,73.6,74.7,76.7,Pass
+STU10409,Female,17,School A,Urban,High School,5-10 hours,Completed,No,Yes,No,Standard,7,88.0,96.1,98.2,94.1,Pass
+STU10410,Male,17,School A,Urban,High School,<2 hours,None,No,Yes,Yes,Standard,10,47.3,50.7,56.4,51.5,Pass
+STU10411,Male,17,School A,Urban,Associate,<2 hours,None,Yes,No,No,Standard,5,80.9,80.6,92.0,84.5,Pass
+STU10412,Male,19,School B,Urban,High School,5-10 hours,None,No,Yes,No,Reduced,1,63.0,77.6,73.1,71.2,Pass
+STU10413,Female,19,School B,Rural,Master,2-5 hours,None,Yes,Yes,Yes,Reduced,3,58.8,63.6,59.4,60.6,Pass
+STU10414,Male,17,School A,Urban,Master,>10 hours,Completed,No,Yes,Yes,Reduced,4,89.7,90.4,77.8,86.0,Pass
+STU10415,Female,20,School A,Urban,Some College,2-5 hours,Completed,No,No,Yes,Standard,2,78.7,79.0,69.8,75.8,Pass
+STU10416,Female,16,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Reduced,3,59.7,63.5,61.9,61.7,Pass
+STU10417,Female,15,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Reduced,5,76.3,85.1,77.3,79.6,Pass
+STU10418,Male,18,School A,Urban,High School,<2 hours,None,Yes,No,Yes,Standard,21,59.5,57.4,68.4,61.8,Pass
+STU10419,Female,22,School A,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,2,75.8,75.5,78.1,76.5,Pass
+STU10420,Male,15,School B,Urban,High School,5-10 hours,None,No,No,No,Standard,5,60.6,73.8,71.2,68.5,Pass
+STU10421,Male,16,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,6,58.1,73.4,63.8,65.1,Pass
+STU10422,Female,18,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,7,64.1,81.9,69.8,71.9,Pass
+STU10423,Female,19,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,4,71.2,78.3,74.5,74.7,Pass
+STU10424,Female,16,School B,Rural,High School,5-10 hours,Completed,Yes,No,Yes,Standard,1,63.9,63.0,67.3,64.7,Pass
+STU10425,Male,17,School B,Rural,Associate,<2 hours,Completed,Yes,Yes,Yes,Standard,9,74.7,77.8,65.3,72.6,Pass
+STU10426,Male,19,School B,Rural,Some College,<2 hours,Completed,Yes,Yes,Yes,Standard,2,63.4,77.6,72.2,71.1,Pass
+STU10427,Female,17,School A,Urban,High School,<2 hours,None,Yes,No,Yes,Standard,5,44.3,55.3,52.2,50.6,Pass
+STU10428,Male,16,School A,Urban,High School,2-5 hours,None,No,Yes,No,Reduced,4,58.9,67.3,65.9,64.0,Pass
+STU10429,Female,16,School B,Urban,High School,2-5 hours,Completed,Yes,No,No,Reduced,2,76.5,69.6,66.7,70.9,Pass
+STU10430,Male,17,School B,Rural,High School,<2 hours,None,No,Yes,No,Standard,4,68.6,79.7,76.5,74.9,Pass
+STU10431,Male,18,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,7,71.8,71.1,73.7,72.2,Pass
+STU10432,Male,20,School A,Urban,Master,2-5 hours,None,Yes,No,No,Reduced,5,77.6,78.3,86.3,80.7,Pass
+STU10433,Male,18,School A,Urban,Some College,<2 hours,None,Yes,No,Yes,Standard,2,62.0,62.7,64.7,63.1,Pass
+STU10434,Male,19,School B,Urban,Some College,>10 hours,None,Yes,Yes,No,Reduced,8,54.0,53.7,68.8,58.8,Pass
+STU10435,Female,22,School B,Urban,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,13,82.6,71.5,80.3,78.1,Pass
+STU10436,Female,17,School A,Urban,Associate,2-5 hours,Completed,Yes,No,No,Standard,1,70.4,68.3,70.0,69.6,Pass
+STU10437,Female,17,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,4,66.2,63.1,63.1,64.1,Pass
+STU10438,Female,21,School A,Rural,High School,2-5 hours,None,Yes,Yes,No,Standard,4,59.4,59.5,61.2,60.0,Pass
+STU10439,Male,17,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,1,76.5,76.9,70.7,74.7,Pass
+STU10440,Male,19,School A,Rural,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,10,88.8,84.3,83.3,85.5,Pass
+STU10441,Male,19,School B,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Reduced,5,82.2,76.5,77.2,78.6,Pass
+STU10442,Female,16,School A,Rural,Some College,>10 hours,None,Yes,Yes,Yes,Standard,8,97.0,82.8,88.2,89.3,Pass
+STU10443,Male,18,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,5,95.3,95.8,92.6,94.6,Pass
+STU10444,Female,16,School A,Rural,Some College,5-10 hours,None,Yes,Yes,No,Standard,10,48.5,54.9,56.7,53.4,Pass
+STU10445,Female,16,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,5,64.3,60.4,62.4,62.4,Pass
+STU10446,Male,18,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,Yes,Standard,4,61.8,59.8,68.0,63.2,Pass
+STU10447,Male,17,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,6,92.6,81.4,86.5,86.8,Pass
+STU10448,Male,19,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,60.8,66.1,81.2,69.4,Pass
+STU10449,Female,20,School B,Urban,High School,5-10 hours,Completed,Yes,No,Yes,Reduced,7,69.1,66.3,68.6,68.0,Pass
+STU10450,Male,19,School A,Urban,Bachelor,5-10 hours,None,No,No,Yes,Standard,2,67.4,72.4,78.1,72.6,Pass
+STU10451,Female,17,School A,Rural,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,4,74.8,78.1,70.5,74.5,Pass
+STU10452,Male,17,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Reduced,4,55.9,61.9,66.3,61.4,Pass
+STU10453,Male,17,School B,Urban,Some College,2-5 hours,None,Yes,No,Yes,Standard,5,59.0,67.0,55.1,60.4,Pass
+STU10454,Female,16,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,11,66.9,84.0,79.4,76.8,Pass
+STU10455,Female,21,School B,Rural,Bachelor,5-10 hours,Completed,Yes,No,Yes,Standard,3,91.0,99.1,87.4,92.5,Pass
+STU10456,Female,17,School B,Rural,Bachelor,5-10 hours,None,Yes,Yes,Yes,Reduced,9,72.2,77.1,75.8,75.0,Pass
+STU10457,Male,16,School A,Urban,Associate,2-5 hours,None,No,Yes,Yes,Standard,10,61.9,67.1,62.4,63.8,Pass
+STU10458,Female,20,School A,Rural,Some College,5-10 hours,None,No,Yes,Yes,Standard,8,62.6,52.6,50.3,55.2,Pass
+STU10459,Male,17,School B,Urban,Some College,2-5 hours,Completed,Yes,No,Yes,Reduced,6,73.8,83.1,76.9,77.9,Pass
+STU10460,Male,15,School A,Rural,High School,5-10 hours,None,Yes,No,Yes,Standard,5,62.6,60.3,70.6,64.5,Pass
+STU10461,Male,16,School A,Rural,Associate,2-5 hours,None,Yes,No,Yes,Reduced,3,58.0,52.9,62.0,57.6,Pass
+STU10462,Female,18,School A,Urban,Associate,5-10 hours,None,Yes,Yes,No,Standard,1,61.2,70.3,55.7,62.4,Pass
+STU10463,Male,19,School A,Urban,High School,5-10 hours,None,Yes,No,Yes,Standard,4,68.7,53.1,64.2,62.0,Pass
+STU10464,Female,16,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,10,63.2,68.4,60.9,64.2,Pass
+STU10465,Male,20,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Reduced,12,63.9,66.1,73.3,67.8,Pass
+STU10466,Male,20,School A,Rural,High School,5-10 hours,None,Yes,No,Yes,Reduced,2,66.8,64.8,61.4,64.3,Pass
+STU10467,Male,20,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,11,65.5,76.9,72.8,71.7,Pass
+STU10468,Male,16,School A,Urban,Bachelor,5-10 hours,Completed,Yes,No,No,Standard,6,65.8,80.3,86.2,77.4,Pass
+STU10469,Female,15,School B,Rural,Master,>10 hours,None,Yes,Yes,Yes,Standard,6,91.5,98.7,93.7,94.6,Pass
+STU10470,Female,20,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,10,51.7,61.9,64.1,59.2,Pass
+STU10471,Female,17,School A,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Reduced,9,62.2,86.5,80.9,76.5,Pass
+STU10472,Female,18,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Standard,2,74.8,83.2,75.7,77.9,Pass
+STU10473,Female,19,School A,Urban,Bachelor,>10 hours,None,Yes,Yes,No,Standard,2,69.8,68.3,68.5,68.9,Pass
+STU10474,Female,16,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Standard,1,83.0,79.4,77.1,79.8,Pass
+STU10475,Female,19,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,7,73.0,71.9,73.5,72.8,Pass
+STU10476,Female,21,School A,Urban,Bachelor,<2 hours,None,Yes,No,Yes,Standard,3,71.1,69.4,63.0,67.8,Pass
+STU10477,Female,19,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,3,83.7,83.0,93.5,86.7,Pass
+STU10478,Male,18,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,10,58.6,59.0,49.2,55.6,Pass
+STU10479,Male,20,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Reduced,7,63.0,51.5,64.2,59.6,Pass
+STU10480,Female,18,School A,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,6,82.7,70.9,85.4,79.7,Pass
+STU10481,Female,19,School A,Urban,Master,5-10 hours,None,Yes,Yes,Yes,Reduced,17,80.9,80.7,91.0,84.2,Pass
+STU10482,Female,20,School A,Urban,Some College,2-5 hours,None,No,Yes,No,Standard,0,64.1,69.8,76.4,70.1,Pass
+STU10483,Male,19,School A,Urban,Master,5-10 hours,None,Yes,Yes,Yes,Standard,2,92.7,85.3,87.5,88.5,Pass
+STU10484,Female,17,School A,Urban,Some College,5-10 hours,None,Yes,No,Yes,Reduced,4,63.2,40.7,51.6,51.8,Pass
+STU10485,Female,16,School A,Urban,High School,>10 hours,Completed,Yes,Yes,No,Standard,2,84.4,81.1,86.0,83.8,Pass
+STU10486,Female,16,School A,Rural,High School,5-10 hours,None,Yes,No,Yes,Standard,8,70.0,75.6,75.5,73.7,Pass
+STU10487,Female,18,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,4,63.3,63.8,72.3,66.5,Pass
+STU10488,Female,18,School B,Urban,Associate,5-10 hours,None,Yes,No,No,Standard,2,88.3,95.2,88.1,90.5,Pass
+STU10489,Male,18,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,Yes,Reduced,7,66.6,78.6,81.0,75.4,Pass
+STU10490,Male,17,School A,Urban,Associate,>10 hours,Completed,Yes,Yes,Yes,Standard,6,67.6,69.6,72.7,70.0,Pass
+STU10491,Male,19,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Standard,2,76.7,83.0,76.2,78.6,Pass
+STU10492,Male,20,School B,Rural,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,4,70.4,73.3,76.1,73.3,Pass
+STU10493,Male,17,School A,Rural,Bachelor,5-10 hours,Completed,Yes,Yes,Yes,Standard,6,89.3,85.1,85.6,86.7,Pass
+STU10494,Female,19,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,Yes,Reduced,12,67.0,77.4,75.3,73.2,Pass
+STU10495,Male,19,School B,Urban,Bachelor,5-10 hours,Completed,Yes,No,Yes,Standard,2,71.5,81.9,69.9,74.4,Pass
+STU10496,Male,18,School A,Urban,Associate,<2 hours,None,Yes,Yes,No,Reduced,9,70.9,75.0,85.7,77.2,Pass
+STU10497,Female,16,School B,Urban,Master,2-5 hours,Completed,Yes,Yes,No,Standard,3,84.0,83.8,79.0,82.3,Pass
+STU10498,Male,19,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,5,66.5,62.1,51.6,60.1,Pass
+STU10499,Female,21,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Standard,2,81.9,66.4,70.1,72.8,Pass
+STU10500,Female,19,School A,Rural,High School,2-5 hours,None,Yes,Yes,No,Standard,6,72.0,64.9,76.3,71.1,Pass
+STU10501,Male,20,School A,Urban,Associate,>10 hours,Completed,Yes,No,Yes,Reduced,10,73.9,73.2,80.5,75.9,Pass
+STU10502,Male,22,School B,Urban,Associate,2-5 hours,None,No,No,No,Standard,4,56.0,68.6,66.3,63.6,Pass
+STU10503,Male,17,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,4,70.6,73.3,76.7,73.5,Pass
+STU10504,Female,18,School B,Urban,Some College,5-10 hours,None,Yes,No,No,Reduced,4,54.5,66.8,60.4,60.6,Pass
+STU10505,Male,18,School A,Rural,High School,5-10 hours,None,No,Yes,No,Standard,1,59.3,48.3,54.5,54.0,Pass
+STU10506,Male,22,School A,Urban,Associate,<2 hours,None,Yes,Yes,No,Standard,9,57.2,64.3,76.7,66.1,Pass
+STU10507,Female,16,School B,Urban,Master,>10 hours,Completed,Yes,Yes,Yes,Standard,10,70.5,74.3,69.7,71.5,Pass
+STU10508,Male,17,School A,Urban,Some College,<2 hours,None,Yes,No,No,Standard,4,49.6,53.3,52.8,51.9,Pass
+STU10509,Female,20,School B,Rural,High School,2-5 hours,Completed,Yes,No,Yes,Reduced,6,52.7,52.7,57.4,54.3,Pass
+STU10510,Female,17,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,6,58.6,48.6,60.9,56.0,Pass
+STU10511,Female,19,School B,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,3,80.2,78.8,77.3,78.8,Pass
+STU10512,Male,17,School A,Rural,Some College,<2 hours,None,Yes,Yes,No,Standard,13,58.2,69.8,66.2,64.7,Pass
+STU10513,Female,22,School A,Rural,Some College,<2 hours,None,Yes,Yes,Yes,Standard,6,65.5,59.2,62.7,62.5,Pass
+STU10514,Female,20,School A,Urban,Associate,5-10 hours,Completed,Yes,No,Yes,Standard,1,63.5,74.8,69.8,69.4,Pass
+STU10515,Female,17,School A,Rural,Some College,<2 hours,Completed,Yes,Yes,Yes,Standard,10,63.3,65.0,66.4,64.9,Pass
+STU10516,Female,19,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Reduced,5,79.2,67.8,77.4,74.8,Pass
+STU10517,Female,17,School A,Urban,High School,5-10 hours,None,Yes,No,Yes,Standard,3,69.0,65.5,77.4,70.6,Pass
+STU10518,Male,18,School B,Rural,Master,5-10 hours,None,Yes,Yes,Yes,Standard,7,78.7,79.8,85.8,81.4,Pass
+STU10519,Female,18,School A,Urban,Some College,<2 hours,None,Yes,Yes,No,Standard,4,69.4,72.2,71.6,71.1,Pass
+STU10520,Male,20,School B,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,11,69.5,69.4,69.1,69.3,Pass
+STU10521,Male,15,School B,Rural,High School,>10 hours,Completed,Yes,Yes,Yes,Standard,9,54.9,73.4,68.4,65.6,Pass
+STU10522,Female,16,School A,Rural,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,12,55.8,57.3,67.5,60.2,Pass
+STU10523,Female,19,School A,Rural,Bachelor,<2 hours,Completed,Yes,Yes,Yes,Reduced,18,69.6,67.8,72.8,70.1,Pass
+STU10524,Male,18,School A,Urban,High School,<2 hours,Completed,Yes,Yes,No,Standard,7,57.4,58.4,54.6,56.8,Pass
+STU10525,Female,18,School A,Rural,High School,2-5 hours,None,Yes,Yes,Yes,Standard,4,49.2,53.7,46.9,49.9,Pass
+STU10526,Female,15,School A,Urban,High School,>10 hours,Completed,Yes,Yes,Yes,Standard,3,85.4,81.1,86.4,84.3,Pass
+STU10527,Male,17,School B,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,7,85.0,94.1,95.6,91.6,Pass
+STU10528,Male,20,School A,Urban,Master,<2 hours,Completed,No,No,Yes,Standard,17,63.9,59.8,67.8,63.8,Pass
+STU10529,Male,15,School A,Rural,Some College,2-5 hours,None,Yes,Yes,No,Standard,1,63.6,69.6,72.5,68.6,Pass
+STU10530,Female,17,School B,Rural,Some College,<2 hours,Completed,Yes,Yes,No,Standard,7,55.3,54.0,68.9,59.4,Pass
+STU10531,Male,21,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,1,74.5,82.0,88.4,81.6,Pass
+STU10532,Male,15,School A,Urban,Bachelor,>10 hours,None,Yes,Yes,No,Standard,1,88.7,93.7,91.6,91.3,Pass
+STU10533,Female,19,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,10,78.8,83.8,76.2,79.6,Pass
+STU10534,Male,17,School B,Urban,High School,<2 hours,Completed,No,No,Yes,Standard,10,78.4,77.2,71.7,75.8,Pass
+STU10535,Female,20,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,3,61.6,65.1,55.2,60.6,Pass
+STU10536,Female,19,School A,Urban,Bachelor,<2 hours,Completed,No,Yes,Yes,Reduced,4,80.4,71.8,74.0,75.4,Pass
+STU10537,Male,20,School A,Urban,Bachelor,<2 hours,None,Yes,No,Yes,Standard,13,66.5,83.4,85.2,78.4,Pass
+STU10538,Female,16,School A,Rural,Associate,2-5 hours,None,Yes,No,Yes,Standard,2,63.9,77.6,80.7,74.1,Pass
+STU10539,Female,18,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Reduced,2,68.8,61.3,64.6,64.9,Pass
+STU10540,Male,19,School A,Rural,Some College,5-10 hours,None,No,Yes,Yes,Standard,2,75.8,77.0,74.5,75.8,Pass
+STU10541,Male,17,School B,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,6,67.0,61.5,64.6,64.4,Pass
+STU10542,Male,16,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,17,69.3,67.1,65.7,67.4,Pass
+STU10543,Male,15,School B,Urban,Bachelor,>10 hours,None,Yes,Yes,Yes,Standard,3,84.8,87.9,83.0,85.2,Pass
+STU10544,Male,21,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,10,56.7,62.6,52.7,57.3,Pass
+STU10545,Female,19,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Standard,5,63.3,72.0,79.6,71.6,Pass
+STU10546,Female,18,School A,Urban,High School,5-10 hours,None,Yes,No,Yes,Reduced,1,72.8,78.3,63.8,71.6,Pass
+STU10547,Female,19,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Reduced,5,72.3,74.1,69.9,72.1,Pass
+STU10548,Female,18,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,9,82.6,76.8,67.5,75.6,Pass
+STU10549,Male,18,School B,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,9,97.3,84.7,91.6,91.2,Pass
+STU10550,Female,18,School B,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,2,70.4,78.5,70.7,73.2,Pass
+STU10551,Female,18,School A,Urban,Master,5-10 hours,None,Yes,Yes,Yes,Standard,7,69.6,83.3,76.9,76.6,Pass
+STU10552,Female,16,School B,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Standard,4,93.3,95.3,81.0,89.9,Pass
+STU10553,Female,20,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,6,83.7,98.7,91.6,91.3,Pass
+STU10554,Male,19,School B,Urban,Associate,<2 hours,None,No,Yes,Yes,Standard,12,71.9,67.1,69.9,69.6,Pass
+STU10555,Female,17,School A,Urban,Master,<2 hours,None,Yes,Yes,Yes,Reduced,5,69.0,66.9,72.0,69.3,Pass
+STU10556,Female,18,School A,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,3,75.1,65.9,89.4,76.8,Pass
+STU10557,Female,16,School A,Rural,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,10,81.4,85.1,80.6,82.4,Pass
+STU10558,Female,22,School A,Urban,Some College,<2 hours,Completed,Yes,No,No,Standard,17,64.3,70.1,68.5,67.6,Pass
+STU10559,Male,20,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,8,93.8,94.6,91.0,93.1,Pass
+STU10560,Female,21,School B,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,6,59.4,60.7,62.3,60.8,Pass
+STU10561,Female,17,School B,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,8,80.2,83.9,83.4,82.5,Pass
+STU10562,Female,16,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,3,61.0,68.9,79.9,69.9,Pass
+STU10563,Male,16,School A,Rural,High School,<2 hours,Completed,Yes,Yes,No,Reduced,7,51.1,59.2,53.1,54.5,Pass
+STU10564,Male,16,School A,Urban,Master,>10 hours,Completed,Yes,Yes,Yes,Reduced,2,82.1,86.8,86.7,85.2,Pass
+STU10565,Male,16,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,3,77.2,73.2,65.1,71.8,Pass
+STU10566,Male,15,School A,Urban,Master,5-10 hours,Completed,Yes,No,No,Standard,6,81.4,85.2,71.4,79.3,Pass
+STU10567,Male,22,School A,Urban,Some College,2-5 hours,None,Yes,No,Yes,Standard,5,54.8,75.3,64.8,65.0,Pass
+STU10568,Female,15,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,0,75.1,73.1,81.3,76.5,Pass
+STU10569,Female,16,School A,Urban,Bachelor,2-5 hours,None,No,No,No,Reduced,4,80.0,74.4,82.7,79.0,Pass
+STU10570,Male,20,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,5,77.3,87.8,88.4,84.5,Pass
+STU10571,Female,18,School A,Rural,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,5,82.3,93.7,85.2,87.1,Pass
+STU10572,Male,19,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,Yes,Reduced,2,74.4,84.6,69.9,76.3,Pass
+STU10573,Female,18,School A,Rural,High School,5-10 hours,Completed,Yes,No,Yes,Standard,7,80.8,74.6,66.9,74.1,Pass
+STU10574,Male,20,School B,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,15,71.2,82.9,75.6,76.6,Pass
+STU10575,Male,18,School A,Rural,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,8,54.0,58.5,67.2,59.9,Pass
+STU10576,Female,18,School B,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,5,72.6,79.9,73.0,75.2,Pass
+STU10577,Male,19,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Standard,12,74.6,69.1,67.9,70.5,Pass
+STU10578,Male,18,School B,Rural,Bachelor,5-10 hours,None,No,No,Yes,Reduced,4,59.8,67.2,65.8,64.3,Pass
+STU10579,Male,17,School B,Urban,High School,>10 hours,Completed,Yes,Yes,No,Standard,7,71.2,79.8,76.0,75.7,Pass
+STU10580,Female,18,School B,Rural,Bachelor,>10 hours,None,Yes,Yes,Yes,Standard,4,68.7,70.8,77.9,72.5,Pass
+STU10581,Female,16,School A,Urban,High School,5-10 hours,None,Yes,No,No,Standard,13,56.7,62.8,65.4,61.6,Pass
+STU10582,Male,19,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,88.4,87.8,80.3,85.5,Pass
+STU10583,Female,17,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,2,84.8,86.9,82.9,84.9,Pass
+STU10584,Female,16,School A,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Reduced,13,47.7,57.4,57.4,54.2,Pass
+STU10585,Male,17,School A,Rural,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,6,68.9,66.6,78.4,71.3,Pass
+STU10586,Male,20,School A,Rural,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,11,64.0,69.9,71.4,68.4,Pass
+STU10587,Female,17,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,3,54.3,68.3,64.0,62.2,Pass
+STU10588,Female,19,School A,Urban,High School,>10 hours,None,No,Yes,No,Standard,2,60.7,58.3,64.5,61.2,Pass
+STU10589,Female,20,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,6,65.2,88.0,66.1,73.1,Pass
+STU10590,Female,15,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,Yes,Reduced,2,88.2,85.9,89.8,88.0,Pass
+STU10591,Male,19,School B,Urban,Associate,2-5 hours,None,No,No,Yes,Standard,5,70.5,74.9,75.9,73.8,Pass
+STU10592,Female,17,School B,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Reduced,4,64.3,62.3,64.6,63.7,Pass
+STU10593,Female,16,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,No,Reduced,5,87.0,88.5,86.0,87.2,Pass
+STU10594,Male,19,School A,Rural,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,7,85.1,87.3,78.3,83.6,Pass
+STU10595,Female,20,School A,Urban,Some College,>10 hours,None,Yes,Yes,No,Standard,8,62.8,63.2,72.1,66.0,Pass
+STU10596,Female,17,School A,Urban,Some College,2-5 hours,None,No,No,No,Reduced,15,67.2,68.1,77.1,70.8,Pass
+STU10597,Male,18,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Reduced,10,77.3,80.1,70.0,75.8,Pass
+STU10598,Male,17,School A,Rural,Some College,2-5 hours,None,Yes,No,No,Standard,1,71.8,58.8,62.3,64.3,Pass
+STU10599,Male,18,School B,Urban,Bachelor,<2 hours,Completed,No,Yes,Yes,Standard,3,68.7,80.3,83.7,77.6,Pass
+STU10600,Male,18,School A,Urban,High School,2-5 hours,Completed,Yes,No,No,Standard,2,67.2,69.1,67.2,67.8,Pass
+STU10601,Female,18,School B,Urban,Bachelor,<2 hours,Completed,Yes,Yes,No,Reduced,11,77.6,71.6,84.4,77.9,Pass
+STU10602,Male,18,School A,Rural,High School,<2 hours,None,Yes,No,No,Reduced,15,66.1,69.3,57.9,64.4,Pass
+STU10603,Male,16,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Reduced,2,79.1,67.2,69.4,71.9,Pass
+STU10604,Male,19,School B,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,10,41.3,43.4,48.4,44.4,Pass
+STU10605,Male,19,School A,Rural,Associate,5-10 hours,Completed,Yes,No,No,Standard,5,85.0,79.9,78.3,81.1,Pass
+STU10606,Male,19,School B,Rural,Bachelor,<2 hours,None,Yes,Yes,Yes,Reduced,6,63.3,62.1,70.9,65.4,Pass
+STU10607,Male,15,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,3,82.0,79.0,82.8,81.3,Pass
+STU10608,Female,18,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Reduced,4,77.1,76.4,80.5,78.0,Pass
+STU10609,Male,17,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,7,52.2,63.4,62.5,59.4,Pass
+STU10610,Female,16,School B,Urban,Bachelor,<2 hours,Completed,Yes,Yes,Yes,Reduced,5,82.4,81.7,79.3,81.1,Pass
+STU10611,Male,16,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,6,82.4,76.3,79.1,79.3,Pass
+STU10612,Male,18,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,4,73.0,79.2,73.2,75.1,Pass
+STU10613,Male,19,School B,Urban,Some College,2-5 hours,None,No,Yes,No,Standard,4,63.4,67.0,74.3,68.2,Pass
+STU10614,Male,16,School B,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Standard,8,70.3,79.6,86.3,78.7,Pass
+STU10615,Female,20,School A,Urban,Bachelor,>10 hours,None,No,No,No,Standard,6,72.2,78.8,70.3,73.8,Pass
+STU10616,Male,18,School B,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Reduced,2,68.3,69.2,64.6,67.4,Pass
+STU10617,Male,19,School B,Urban,High School,2-5 hours,None,Yes,No,No,Standard,6,48.1,61.7,63.2,57.7,Pass
+STU10618,Female,18,School A,Urban,Master,5-10 hours,None,Yes,Yes,Yes,Standard,6,80.2,91.1,84.9,85.4,Pass
+STU10619,Female,18,School A,Rural,High School,2-5 hours,None,Yes,Yes,No,Standard,10,58.8,67.7,59.8,62.1,Pass
+STU10620,Female,18,School A,Urban,Some College,2-5 hours,None,Yes,No,No,Reduced,7,56.1,65.7,69.3,63.7,Pass
+STU10621,Male,21,School A,Urban,Some College,5-10 hours,None,Yes,No,No,Reduced,4,62.9,65.7,62.6,63.7,Pass
+STU10622,Female,18,School B,Urban,Associate,2-5 hours,None,No,No,Yes,Reduced,3,56.6,68.7,66.8,64.0,Pass
+STU10623,Male,18,School A,Urban,Bachelor,<2 hours,Completed,No,Yes,No,Reduced,3,68.2,62.3,61.8,64.1,Pass
+STU10624,Female,18,School A,Urban,High School,2-5 hours,Completed,Yes,No,Yes,Standard,5,51.9,43.8,47.4,47.7,Pass
+STU10625,Male,19,School A,Urban,Master,<2 hours,None,Yes,No,Yes,Reduced,4,64.8,77.2,74.6,72.2,Pass
+STU10626,Female,15,School A,Rural,Associate,5-10 hours,Completed,Yes,No,No,Standard,11,42.8,61.0,55.1,53.0,Pass
+STU10627,Male,18,School A,Urban,Master,5-10 hours,None,Yes,No,No,Standard,5,86.1,87.4,79.8,84.4,Pass
+STU10628,Female,18,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,92.1,91.1,87.6,90.3,Pass
+STU10629,Male,21,School A,Urban,Master,<2 hours,None,Yes,Yes,Yes,Standard,2,71.2,76.1,69.2,72.2,Pass
+STU10630,Male,18,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Reduced,2,90.5,81.5,83.7,85.2,Pass
+STU10631,Male,18,School B,Rural,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,6,74.3,66.7,73.1,71.4,Pass
+STU10632,Male,21,School A,Urban,Some College,<2 hours,None,No,No,Yes,Reduced,14,70.4,60.5,71.2,67.4,Pass
+STU10633,Female,18,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Reduced,8,69.4,73.2,73.4,72.0,Pass
+STU10634,Female,16,School A,Rural,Some College,2-5 hours,None,No,Yes,No,Standard,4,45.0,46.2,61.2,50.8,Pass
+STU10635,Female,16,School B,Urban,Bachelor,5-10 hours,None,Yes,No,Yes,Standard,16,71.4,68.4,71.1,70.3,Pass
+STU10636,Female,16,School B,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,8,90.0,87.1,87.7,88.3,Pass
+STU10637,Male,15,School A,Urban,Bachelor,<2 hours,Completed,No,No,Yes,Standard,7,73.1,74.6,79.7,75.8,Pass
+STU10638,Male,17,School A,Rural,High School,5-10 hours,None,Yes,Yes,Yes,Reduced,4,71.1,58.6,64.8,64.8,Pass
+STU10639,Male,19,School A,Urban,Master,5-10 hours,None,Yes,Yes,No,Standard,12,78.2,92.4,80.1,83.6,Pass
+STU10640,Male,19,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,4,79.1,79.6,79.3,79.3,Pass
+STU10641,Male,15,School A,Rural,High School,<2 hours,None,Yes,Yes,Yes,Standard,3,74.8,58.9,64.7,66.1,Pass
+STU10642,Male,18,School B,Rural,Bachelor,5-10 hours,Completed,Yes,Yes,Yes,Standard,4,98.8,98.3,98.1,98.4,Pass
+STU10643,Female,16,School B,Urban,Bachelor,<2 hours,Completed,Yes,Yes,Yes,Standard,6,78.3,71.1,68.8,72.7,Pass
+STU10644,Female,21,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,9,73.5,80.3,80.5,78.1,Pass
+STU10645,Male,16,School B,Urban,Master,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,97.1,94.2,77.3,89.5,Pass
+STU10646,Male,18,School B,Urban,Some College,<2 hours,Completed,Yes,No,Yes,Reduced,5,60.2,63.2,70.4,64.6,Pass
+STU10647,Female,17,School A,Rural,Bachelor,<2 hours,None,Yes,Yes,No,Standard,4,62.5,75.8,76.7,71.7,Pass
+STU10648,Female,18,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,Yes,Standard,5,65.0,77.6,79.9,74.2,Pass
+STU10649,Male,17,School B,Urban,Associate,>10 hours,Completed,No,Yes,No,Standard,2,82.5,85.5,86.1,84.7,Pass
+STU10650,Female,19,School A,Rural,Some College,2-5 hours,None,Yes,No,Yes,Standard,11,59.8,74.2,73.7,69.2,Pass
+STU10651,Female,16,School B,Urban,High School,5-10 hours,None,Yes,No,No,Standard,1,57.2,63.5,50.4,57.0,Pass
+STU10652,Male,20,School A,Urban,Associate,>10 hours,None,Yes,No,No,Reduced,13,67.8,84.3,81.5,77.9,Pass
+STU10653,Male,18,School A,Urban,Bachelor,5-10 hours,None,No,No,Yes,Standard,8,83.0,74.9,73.4,77.1,Pass
+STU10654,Female,19,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,2,69.1,68.7,79.6,72.5,Pass
+STU10655,Male,20,School A,Rural,Master,2-5 hours,Completed,Yes,No,No,Standard,4,90.3,68.2,79.1,79.2,Pass
+STU10656,Female,22,School A,Urban,Associate,2-5 hours,None,No,Yes,Yes,Standard,2,60.7,68.0,73.0,67.2,Pass
+STU10657,Male,16,School A,Urban,High School,2-5 hours,Completed,Yes,No,Yes,Standard,8,71.8,71.9,64.8,69.5,Pass
+STU10658,Female,17,School A,Urban,Associate,>10 hours,Completed,No,Yes,Yes,Reduced,12,64.4,82.2,87.9,78.2,Pass
+STU10659,Male,17,School A,Rural,High School,5-10 hours,None,Yes,Yes,No,Reduced,27,56.6,59.6,56.2,57.5,Pass
+STU10660,Female,17,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,7,76.1,91.1,87.7,85.0,Pass
+STU10661,Female,18,School A,Rural,Bachelor,2-5 hours,None,Yes,No,Yes,Reduced,2,72.8,76.0,80.5,76.4,Pass
+STU10662,Male,22,School A,Rural,High School,5-10 hours,Completed,No,No,Yes,Standard,2,60.7,62.6,67.7,63.7,Pass
+STU10663,Female,22,School A,Urban,High School,<2 hours,Completed,Yes,Yes,No,Standard,8,75.5,81.4,84.1,80.3,Pass
+STU10664,Female,18,School B,Rural,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,4,64.1,68.3,69.9,67.4,Pass
+STU10665,Female,18,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,8,61.5,70.2,53.4,61.7,Pass
+STU10666,Male,20,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,No,Standard,6,80.9,84.7,87.9,84.5,Pass
+STU10667,Male,21,School A,Urban,Bachelor,5-10 hours,Completed,Yes,Yes,Yes,Standard,2,72.1,71.4,65.4,69.6,Pass
+STU10668,Male,16,School A,Rural,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,69.7,68.9,76.2,71.6,Pass
+STU10669,Female,18,School B,Rural,Associate,<2 hours,None,Yes,No,No,Standard,9,63.7,60.2,61.5,61.8,Pass
+STU10670,Female,20,School A,Rural,High School,5-10 hours,None,Yes,Yes,No,Reduced,7,58.3,58.6,74.8,63.9,Pass
+STU10671,Female,17,School A,Rural,Associate,2-5 hours,Completed,Yes,No,Yes,Standard,8,71.3,78.7,80.1,76.7,Pass
+STU10672,Male,17,School B,Urban,High School,2-5 hours,Completed,Yes,No,Yes,Reduced,2,71.3,70.6,57.2,66.4,Pass
+STU10673,Male,22,School B,Rural,Master,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,79.5,74.7,82.7,79.0,Pass
+STU10674,Male,22,School B,Rural,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,10,71.4,78.9,76.9,75.7,Pass
+STU10675,Male,20,School B,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,1,83.4,79.6,86.1,83.0,Pass
+STU10676,Female,19,School B,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Standard,9,63.4,78.4,71.7,71.2,Pass
+STU10677,Male,17,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,1,61.8,63.4,71.2,65.5,Pass
+STU10678,Female,17,School A,Rural,Associate,5-10 hours,None,Yes,Yes,No,Standard,5,87.4,89.3,85.7,87.5,Pass
+STU10679,Female,18,School A,Urban,Associate,<2 hours,None,Yes,Yes,No,Standard,4,67.0,64.4,64.6,65.3,Pass
+STU10680,Female,18,School A,Urban,Master,2-5 hours,None,Yes,No,No,Standard,2,65.0,67.7,67.8,66.8,Pass
+STU10681,Female,18,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,No,Reduced,6,53.4,60.8,49.8,54.7,Pass
+STU10682,Female,18,School A,Urban,High School,5-10 hours,Completed,Yes,No,No,Standard,10,52.7,60.8,58.1,57.2,Pass
+STU10683,Female,17,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,3,67.3,72.2,64.3,67.9,Pass
+STU10684,Female,19,School B,Urban,Some College,5-10 hours,None,Yes,No,No,Standard,0,74.7,72.9,63.5,70.4,Pass
+STU10685,Male,17,School B,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,73.1,72.1,74.5,73.2,Pass
+STU10686,Female,17,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,87.2,89.0,86.7,87.6,Pass
+STU10687,Female,16,School A,Rural,Bachelor,>10 hours,Completed,Yes,No,No,Reduced,9,75.1,73.9,74.5,74.5,Pass
+STU10688,Male,16,School A,Urban,High School,5-10 hours,Completed,Yes,No,No,Standard,3,61.2,66.8,64.2,64.1,Pass
+STU10689,Male,20,School A,Rural,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,3,62.9,76.5,69.4,69.6,Pass
+STU10690,Male,18,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,3,76.4,85.3,82.0,81.2,Pass
+STU10691,Female,16,School B,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,10,54.1,64.3,56.2,58.2,Pass
+STU10692,Male,19,School B,Urban,Associate,<2 hours,None,Yes,No,Yes,Standard,8,61.4,70.3,67.6,66.4,Pass
+STU10693,Female,18,School B,Urban,High School,5-10 hours,Completed,Yes,No,Yes,Reduced,3,62.0,61.7,51.2,58.3,Pass
+STU10694,Female,15,School B,Urban,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,1,71.1,66.7,71.3,69.7,Pass
+STU10695,Male,17,School A,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,12,80.2,66.2,67.8,71.4,Pass
+STU10696,Male,16,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Reduced,3,71.0,70.8,79.2,73.7,Pass
+STU10697,Male,18,School A,Urban,Master,2-5 hours,None,Yes,No,Yes,Standard,10,73.2,59.4,71.4,68.0,Pass
+STU10698,Male,17,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,No,Reduced,6,69.0,72.1,64.2,68.4,Pass
+STU10699,Male,15,School A,Urban,High School,5-10 hours,None,Yes,Yes,Yes,Reduced,3,66.9,59.8,74.3,67.0,Pass
+STU10700,Female,15,School A,Urban,Some College,2-5 hours,Completed,No,No,Yes,Standard,2,73.3,79.3,62.4,71.7,Pass
+STU10701,Female,18,School B,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,71.6,63.5,64.5,66.5,Pass
+STU10702,Female,15,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,0,85.7,94.4,93.5,91.2,Pass
+STU10703,Female,20,School B,Rural,High School,>10 hours,None,Yes,Yes,Yes,Standard,2,69.4,61.8,74.8,68.7,Pass
+STU10704,Male,16,School B,Urban,Associate,<2 hours,None,Yes,Yes,No,Standard,17,59.2,65.3,74.7,66.4,Pass
+STU10705,Female,18,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,19,48.6,72.9,73.1,64.9,Pass
+STU10706,Male,18,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Reduced,3,75.2,81.1,78.4,78.2,Pass
+STU10707,Male,18,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,9,66.6,72.0,71.7,70.1,Pass
+STU10708,Male,15,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,6,73.9,73.0,77.3,74.7,Pass
+STU10709,Female,19,School A,Rural,Bachelor,2-5 hours,None,Yes,No,No,Standard,2,65.5,59.2,62.9,62.5,Pass
+STU10710,Female,20,School B,Urban,Associate,<2 hours,Completed,Yes,Yes,Yes,Standard,9,70.3,88.4,78.7,79.1,Pass
+STU10711,Male,15,School A,Urban,High School,<2 hours,None,No,Yes,Yes,Standard,5,69.9,66.6,64.7,67.1,Pass
+STU10712,Male,16,School A,Rural,Associate,5-10 hours,Completed,Yes,Yes,No,Standard,5,85.8,85.6,80.8,84.1,Pass
+STU10713,Male,20,School B,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,9,69.3,76.1,76.0,73.8,Pass
+STU10714,Male,18,School A,Rural,Some College,2-5 hours,None,Yes,No,Yes,Standard,4,63.5,60.2,74.6,66.1,Pass
+STU10715,Male,16,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,4,64.6,76.0,78.0,72.9,Pass
+STU10716,Female,16,School A,Urban,Master,5-10 hours,None,Yes,No,Yes,Standard,7,85.7,82.5,82.3,83.5,Pass
+STU10717,Male,18,School A,Rural,High School,5-10 hours,None,Yes,Yes,No,Standard,10,78.3,82.0,84.8,81.7,Pass
+STU10718,Female,19,School A,Rural,High School,5-10 hours,Completed,Yes,Yes,Yes,Reduced,7,73.6,72.4,76.3,74.1,Pass
+STU10719,Male,18,School A,Rural,High School,2-5 hours,None,Yes,No,Yes,Standard,4,65.3,57.5,64.5,62.4,Pass
+STU10720,Male,21,School A,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,10,46.1,50.8,51.6,49.5,Pass
+STU10721,Female,18,School A,Rural,Some College,2-5 hours,None,Yes,No,Yes,Standard,6,44.3,58.8,53.9,52.3,Pass
+STU10722,Female,17,School A,Urban,High School,2-5 hours,Completed,No,Yes,Yes,Standard,12,69.5,69.7,70.1,69.8,Pass
+STU10723,Female,18,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Standard,14,59.4,59.4,59.0,59.3,Pass
+STU10724,Male,17,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,Yes,Reduced,9,68.9,79.5,70.6,73.0,Pass
+STU10725,Female,16,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Standard,11,57.2,57.3,53.6,56.0,Pass
+STU10726,Female,15,School A,Urban,Master,2-5 hours,Completed,No,Yes,No,Standard,12,77.4,74.2,74.6,75.4,Pass
+STU10727,Female,17,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,Yes,Reduced,6,70.2,64.5,68.4,67.7,Pass
+STU10728,Female,19,School A,Rural,High School,2-5 hours,None,Yes,Yes,No,Standard,12,67.6,79.0,71.8,72.8,Pass
+STU10729,Female,15,School B,Rural,Master,5-10 hours,Completed,Yes,Yes,No,Standard,5,67.1,79.6,71.8,72.8,Pass
+STU10730,Female,17,School B,Rural,Bachelor,2-5 hours,None,Yes,No,No,Standard,8,63.2,70.8,79.1,71.0,Pass
+STU10731,Female,18,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,No,Reduced,5,72.9,70.0,82.0,75.0,Pass
+STU10732,Female,18,School B,Rural,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,1,85.0,85.1,69.1,79.7,Pass
+STU10733,Female,19,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,17,76.4,80.5,89.9,82.3,Pass
+STU10734,Female,19,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,No,Reduced,9,68.4,75.2,73.1,72.2,Pass
+STU10735,Female,19,School B,Rural,Bachelor,<2 hours,None,Yes,Yes,Yes,Reduced,10,48.5,66.9,55.3,56.9,Pass
+STU10736,Male,16,School B,Urban,Bachelor,>10 hours,Completed,Yes,No,Yes,Reduced,6,74.5,84.4,85.5,81.5,Pass
+STU10737,Female,18,School B,Urban,Some College,<2 hours,Completed,Yes,Yes,Yes,Standard,13,66.6,78.2,77.6,74.1,Pass
+STU10738,Female,18,School A,Urban,Associate,2-5 hours,Completed,Yes,No,Yes,Reduced,5,66.2,73.5,80.5,73.4,Pass
+STU10739,Female,17,School B,Urban,Some College,5-10 hours,Completed,Yes,Yes,No,Standard,4,75.3,77.5,72.8,75.2,Pass
+STU10740,Female,15,School A,Rural,High School,2-5 hours,None,Yes,No,No,Standard,2,70.7,74.3,66.7,70.6,Pass
+STU10741,Female,16,School A,Urban,Master,2-5 hours,Completed,Yes,No,No,Reduced,7,87.2,78.5,65.8,77.2,Pass
+STU10742,Female,18,School A,Urban,Associate,2-5 hours,Completed,No,No,Yes,Standard,11,56.3,76.3,69.7,67.4,Pass
+STU10743,Male,17,School B,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Standard,6,71.4,64.3,71.7,69.1,Pass
+STU10744,Female,16,School A,Urban,Associate,<2 hours,None,Yes,No,No,Standard,3,86.3,81.5,76.7,81.5,Pass
+STU10745,Female,20,School B,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,12,65.5,66.7,69.0,67.1,Pass
+STU10746,Female,21,School A,Rural,Some College,<2 hours,Completed,Yes,No,No,Standard,8,70.4,80.1,72.2,74.2,Pass
+STU10747,Female,16,School B,Rural,Master,2-5 hours,None,Yes,Yes,No,Reduced,16,54.1,60.2,59.1,57.8,Pass
+STU10748,Female,21,School B,Rural,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,64.3,77.1,76.8,72.7,Pass
+STU10749,Male,15,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,8,70.4,65.3,73.9,69.9,Pass
+STU10750,Male,21,School A,Rural,Associate,5-10 hours,None,Yes,No,No,Standard,2,71.6,76.9,72.4,73.6,Pass
+STU10751,Female,21,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Reduced,7,52.2,60.8,76.6,63.2,Pass
+STU10752,Female,15,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,5,73.5,67.5,56.0,65.7,Pass
+STU10753,Female,19,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,1,66.8,70.8,73.1,70.2,Pass
+STU10754,Female,22,School A,Urban,High School,5-10 hours,Completed,No,No,Yes,Standard,11,63.3,63.6,60.2,62.4,Pass
+STU10755,Male,20,School A,Rural,Associate,2-5 hours,None,Yes,Yes,No,Reduced,9,60.3,65.0,65.4,63.6,Pass
+STU10756,Female,22,School A,Urban,Bachelor,<2 hours,None,No,No,Yes,Reduced,9,69.7,70.1,74.3,71.4,Pass
+STU10757,Female,18,School A,Rural,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,2,62.4,71.2,70.7,68.1,Pass
+STU10758,Male,15,School A,Urban,Some College,5-10 hours,Completed,Yes,Yes,No,Standard,3,77.8,75.3,78.6,77.2,Pass
+STU10759,Female,20,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,9,84.5,86.4,85.2,85.4,Pass
+STU10760,Female,18,School A,Rural,High School,2-5 hours,None,Yes,No,No,Standard,5,65.1,65.3,61.5,64.0,Pass
+STU10761,Male,18,School B,Urban,Master,<2 hours,Completed,Yes,No,No,Reduced,6,67.9,77.7,63.5,69.7,Pass
+STU10762,Female,17,School B,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,11,81.4,80.9,83.2,81.8,Pass
+STU10763,Female,18,School A,Urban,High School,5-10 hours,None,Yes,Yes,Yes,Standard,5,61.4,63.1,65.1,63.2,Pass
+STU10764,Female,16,School B,Rural,High School,5-10 hours,None,Yes,Yes,Yes,Standard,2,70.0,72.8,73.0,71.9,Pass
+STU10765,Male,19,School A,Rural,Master,2-5 hours,Completed,Yes,Yes,Yes,Standard,9,67.3,61.5,70.7,66.5,Pass
+STU10766,Female,15,School B,Urban,High School,5-10 hours,None,Yes,Yes,Yes,Standard,2,61.2,52.3,56.8,56.8,Pass
+STU10767,Female,19,School A,Urban,Associate,5-10 hours,None,Yes,No,Yes,Standard,5,71.6,70.9,78.0,73.5,Pass
+STU10768,Female,20,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,6,54.0,54.2,62.2,56.8,Pass
+STU10769,Female,18,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,8,71.6,67.7,82.1,73.8,Pass
+STU10770,Male,18,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,1,82.6,90.0,87.1,86.6,Pass
+STU10771,Female,17,School B,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,0,80.2,83.8,88.8,84.3,Pass
+STU10772,Male,21,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,0,71.3,74.8,71.5,72.5,Pass
+STU10773,Male,19,School B,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,12,72.1,75.1,76.7,74.6,Pass
+STU10774,Male,17,School B,Urban,Bachelor,>10 hours,Completed,Yes,Yes,No,Standard,1,90.2,89.0,94.0,91.1,Pass
+STU10775,Female,16,School A,Urban,Some College,2-5 hours,None,No,No,No,Standard,15,62.4,64.1,64.8,63.8,Pass
+STU10776,Male,16,School A,Urban,High School,2-5 hours,None,No,No,Yes,Standard,10,56.6,48.7,47.8,51.0,Pass
+STU10777,Male,18,School B,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,2,83.4,91.6,83.6,86.2,Pass
+STU10778,Female,21,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,1,68.6,63.5,66.0,66.0,Pass
+STU10779,Male,19,School A,Rural,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,5,69.7,83.6,79.0,77.4,Pass
+STU10780,Male,16,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Reduced,4,82.2,86.2,88.4,85.6,Pass
+STU10781,Female,20,School B,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Standard,12,57.2,74.8,71.6,67.9,Pass
+STU10782,Male,17,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Reduced,7,61.4,76.5,65.4,67.8,Pass
+STU10783,Female,20,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,5,85.4,87.9,80.6,84.6,Pass
+STU10784,Male,17,School A,Urban,Bachelor,<2 hours,None,No,No,Yes,Standard,5,73.6,80.1,75.4,76.4,Pass
+STU10785,Male,18,School A,Rural,Bachelor,5-10 hours,None,Yes,No,No,Standard,8,62.3,67.4,66.1,65.3,Pass
+STU10786,Female,21,School A,Rural,Master,2-5 hours,Completed,No,Yes,No,Standard,4,67.8,64.2,71.8,67.9,Pass
+STU10787,Male,17,School B,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,17,69.8,62.9,74.2,69.0,Pass
+STU10788,Female,19,School B,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Reduced,2,63.8,70.8,66.2,66.9,Pass
+STU10789,Male,22,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Reduced,4,80.3,82.9,94.2,85.8,Pass
+STU10790,Male,16,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,7,75.7,87.9,75.4,79.7,Pass
+STU10791,Female,16,School A,Urban,Some College,2-5 hours,None,Yes,No,Yes,Standard,6,57.3,62.4,48.1,55.9,Pass
+STU10792,Female,19,School A,Rural,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,17,73.5,69.3,80.1,74.3,Pass
+STU10793,Female,17,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Standard,3,65.8,82.7,84.6,77.7,Pass
+STU10794,Female,15,School B,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,0,72.1,66.5,67.5,68.7,Pass
+STU10795,Female,18,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,9,71.7,81.7,79.4,77.6,Pass
+STU10796,Female,19,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,6,84.4,90.1,87.4,87.3,Pass
+STU10797,Female,17,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,Yes,Reduced,10,80.8,95.4,89.1,88.4,Pass
+STU10798,Female,17,School A,Rural,Some College,<2 hours,None,Yes,Yes,Yes,Standard,7,59.4,58.0,53.2,56.9,Pass
+STU10799,Male,20,School A,Urban,Associate,2-5 hours,Completed,Yes,No,No,Standard,0,86.7,80.2,62.3,76.4,Pass
+STU10800,Male,18,School B,Rural,Associate,<2 hours,None,Yes,No,Yes,Standard,8,60.2,53.3,57.7,57.1,Pass
+STU10801,Male,20,School B,Rural,Associate,2-5 hours,None,Yes,No,No,Reduced,3,50.0,61.7,63.7,58.5,Pass
+STU10802,Female,18,School B,Rural,High School,5-10 hours,None,No,Yes,Yes,Standard,4,65.1,69.1,77.9,70.7,Pass
+STU10803,Male,21,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,82.5,93.3,91.4,89.1,Pass
+STU10804,Male,18,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,No,Standard,2,73.4,57.9,62.8,64.7,Pass
+STU10805,Female,16,School B,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,2,75.2,74.2,77.0,75.5,Pass
+STU10806,Female,20,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,8,65.7,81.4,76.1,74.4,Pass
+STU10807,Male,18,School A,Rural,High School,2-5 hours,None,Yes,No,No,Reduced,9,55.9,62.5,66.9,61.8,Pass
+STU10808,Female,16,School A,Urban,Associate,>10 hours,None,Yes,Yes,Yes,Reduced,2,68.3,74.4,57.6,66.8,Pass
+STU10809,Female,16,School A,Rural,Some College,2-5 hours,None,Yes,Yes,Yes,Reduced,6,59.4,57.5,72.4,63.1,Pass
+STU10810,Male,19,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,9,56.9,71.8,71.4,66.7,Pass
+STU10811,Female,15,School A,Urban,High School,<2 hours,None,No,Yes,Yes,Standard,6,77.1,74.9,72.3,74.8,Pass
+STU10812,Female,17,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,6,63.4,62.3,62.6,62.8,Pass
+STU10813,Male,16,School B,Rural,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,1,59.1,67.1,71.2,65.8,Pass
+STU10814,Male,18,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Standard,12,81.3,95.4,89.0,88.6,Pass
+STU10815,Female,17,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,2,78.4,73.9,71.4,74.6,Pass
+STU10816,Male,18,School B,Rural,High School,<2 hours,Completed,Yes,No,Yes,Standard,5,59.5,69.5,71.7,66.9,Pass
+STU10817,Male,17,School A,Urban,Some College,2-5 hours,None,No,Yes,Yes,Reduced,10,67.5,86.1,73.4,75.7,Pass
+STU10818,Male,15,School A,Urban,Bachelor,<2 hours,None,No,Yes,Yes,Reduced,16,75.4,79.7,74.9,76.7,Pass
+STU10819,Male,18,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,Yes,Standard,5,62.4,68.2,67.1,65.9,Pass
+STU10820,Female,17,School A,Urban,High School,>10 hours,None,Yes,No,Yes,Standard,19,56.3,66.3,65.3,62.6,Pass
+STU10821,Female,18,School A,Urban,Some College,5-10 hours,Completed,No,Yes,No,Standard,5,81.1,82.3,79.5,81.0,Pass
+STU10822,Male,16,School B,Urban,Some College,>10 hours,Completed,Yes,Yes,Yes,Standard,5,98.5,98.9,98.8,98.7,Pass
+STU10823,Female,15,School B,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,2,66.6,56.5,58.9,60.7,Pass
+STU10824,Male,17,School B,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Standard,5,63.1,71.4,64.8,66.4,Pass
+STU10825,Male,18,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,6,69.7,74.4,74.7,72.9,Pass
+STU10826,Female,17,School B,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Reduced,8,73.4,72.5,70.6,72.2,Pass
+STU10827,Male,19,School A,Urban,Bachelor,<2 hours,Completed,No,Yes,Yes,Reduced,9,67.3,76.7,75.0,73.0,Pass
+STU10828,Female,17,School A,Urban,Bachelor,5-10 hours,None,Yes,No,No,Standard,3,73.6,61.2,74.8,69.9,Pass
+STU10829,Male,18,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Reduced,13,67.1,52.2,59.6,59.6,Pass
+STU10830,Female,18,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,5,70.1,80.5,64.5,71.7,Pass
+STU10831,Male,15,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Standard,5,78.0,81.3,76.2,78.5,Pass
+STU10832,Male,18,School A,Rural,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,75.2,59.3,71.1,68.5,Pass
+STU10833,Female,17,School A,Rural,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,8,76.5,66.0,68.3,70.3,Pass
+STU10834,Male,17,School A,Urban,High School,>10 hours,Completed,No,Yes,Yes,Standard,5,76.6,75.3,73.0,75.0,Pass
+STU10835,Male,16,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,75.1,86.1,89.2,83.5,Pass
+STU10836,Male,19,School A,Urban,Associate,<2 hours,None,Yes,No,Yes,Standard,3,64.6,75.3,67.8,69.2,Pass
+STU10837,Male,21,School B,Rural,Some College,<2 hours,None,Yes,Yes,No,Reduced,3,72.5,77.8,66.0,72.1,Pass
+STU10838,Male,15,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,6,66.0,64.9,68.8,66.6,Pass
+STU10839,Female,18,School A,Urban,High School,>10 hours,Completed,Yes,No,No,Standard,14,81.7,74.8,71.5,76.0,Pass
+STU10840,Female,19,School A,Urban,Associate,5-10 hours,None,No,Yes,No,Reduced,5,66.9,58.6,58.8,61.4,Pass
+STU10841,Female,17,School B,Urban,Some College,5-10 hours,Completed,Yes,Yes,No,Standard,4,54.3,54.6,64.4,57.8,Pass
+STU10842,Male,19,School A,Urban,Bachelor,>10 hours,Completed,Yes,Yes,Yes,Standard,8,90.4,87.2,95.7,91.1,Pass
+STU10843,Male,18,School B,Rural,Bachelor,5-10 hours,None,Yes,No,Yes,Reduced,12,65.1,68.6,75.9,69.9,Pass
+STU10844,Female,21,School A,Rural,Some College,2-5 hours,None,Yes,Yes,No,Standard,3,66.9,67.5,68.2,67.5,Pass
+STU10845,Female,22,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,2,58.9,64.2,69.8,64.3,Pass
+STU10846,Male,15,School A,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Standard,6,65.4,68.3,65.8,66.5,Pass
+STU10847,Female,18,School A,Urban,Associate,2-5 hours,None,Yes,No,No,Standard,7,69.3,79.8,77.1,75.4,Pass
+STU10848,Male,18,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Reduced,1,64.0,84.7,83.4,77.4,Pass
+STU10849,Female,16,School B,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,5,50.9,61.3,58.6,56.9,Pass
+STU10850,Male,17,School A,Urban,High School,>10 hours,None,Yes,Yes,No,Standard,4,70.7,82.2,68.0,73.6,Pass
+STU10851,Female,22,School B,Rural,Bachelor,>10 hours,Completed,Yes,Yes,Yes,Standard,4,80.1,85.8,82.9,82.9,Pass
+STU10852,Female,15,School A,Rural,Some College,2-5 hours,None,Yes,No,Yes,Reduced,2,64.5,63.9,69.3,65.9,Pass
+STU10853,Male,18,School A,Urban,Associate,5-10 hours,None,Yes,No,Yes,Standard,3,79.6,97.7,88.0,88.4,Pass
+STU10854,Male,20,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,4,57.8,55.7,66.0,59.8,Pass
+STU10855,Female,17,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Reduced,4,67.4,66.0,70.5,68.0,Pass
+STU10856,Female,18,School B,Urban,High School,2-5 hours,None,Yes,No,No,Standard,6,59.2,70.3,57.9,62.5,Pass
+STU10857,Male,22,School A,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,9,69.2,74.2,81.8,75.1,Pass
+STU10858,Male,18,School A,Urban,Bachelor,2-5 hours,Completed,No,Yes,No,Standard,9,80.1,79.4,84.8,81.4,Pass
+STU10859,Female,16,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Reduced,5,66.9,60.7,63.2,63.6,Pass
+STU10860,Female,15,School A,Rural,Bachelor,<2 hours,None,Yes,Yes,No,Standard,8,59.5,63.5,64.0,62.3,Pass
+STU10861,Male,21,School A,Urban,Some College,<2 hours,None,No,No,No,Standard,8,68.0,77.5,78.6,74.7,Pass
+STU10862,Male,17,School B,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Reduced,16,75.2,88.0,85.4,82.9,Pass
+STU10863,Male,18,School A,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Standard,8,79.0,85.9,72.1,79.0,Pass
+STU10864,Male,16,School A,Rural,High School,2-5 hours,None,Yes,No,Yes,Standard,7,32.4,28.4,41.4,34.1,Fail
+STU10865,Female,17,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,10,72.2,62.9,68.2,67.8,Pass
+STU10866,Male,21,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,No,Reduced,2,68.3,70.1,73.6,70.7,Pass
+STU10867,Male,18,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Standard,5,70.9,80.5,71.9,74.4,Pass
+STU10868,Male,22,School B,Urban,Bachelor,<2 hours,Completed,Yes,Yes,No,Standard,15,70.6,79.6,72.6,74.3,Pass
+STU10869,Female,17,School B,Rural,Associate,5-10 hours,Completed,No,Yes,Yes,Standard,14,68.2,79.0,71.0,72.7,Pass
+STU10870,Female,18,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,3,75.9,80.2,82.3,79.5,Pass
+STU10871,Male,20,School B,Rural,Associate,5-10 hours,None,Yes,Yes,Yes,Reduced,15,75.0,68.9,67.1,70.3,Pass
+STU10872,Female,18,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,4,77.4,79.4,87.4,81.4,Pass
+STU10873,Male,17,School A,Urban,Some College,2-5 hours,Completed,No,No,Yes,Standard,6,74.3,80.6,78.8,77.9,Pass
+STU10874,Female,20,School B,Urban,Associate,2-5 hours,None,Yes,No,No,Reduced,2,63.1,72.0,75.1,70.1,Pass
+STU10875,Male,17,School B,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,12,63.2,68.7,63.6,65.2,Pass
+STU10876,Male,18,School B,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,4,78.2,88.3,80.4,82.3,Pass
+STU10877,Female,22,School A,Urban,High School,<2 hours,Completed,Yes,Yes,Yes,Reduced,3,71.5,74.6,79.0,75.0,Pass
+STU10878,Female,16,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,No,Standard,4,70.6,76.8,68.7,72.0,Pass
+STU10879,Male,17,School A,Rural,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,0,81.7,84.8,86.8,84.4,Pass
+STU10880,Male,15,School A,Rural,Some College,<2 hours,None,No,No,Yes,Standard,9,51.7,68.5,56.3,58.8,Pass
+STU10881,Female,17,School A,Urban,Bachelor,<2 hours,Completed,No,No,Yes,Standard,12,79.1,87.1,85.3,83.8,Pass
+STU10882,Male,16,School A,Urban,Some College,5-10 hours,None,No,Yes,Yes,Standard,2,81.6,77.1,89.0,82.6,Pass
+STU10883,Male,19,School A,Rural,High School,2-5 hours,Completed,Yes,No,No,Standard,2,55.5,67.3,69.0,63.9,Pass
+STU10884,Female,16,School A,Urban,Associate,5-10 hours,None,Yes,Yes,No,Reduced,8,84.9,91.8,80.0,85.6,Pass
+STU10885,Female,19,School A,Rural,Some College,>10 hours,Completed,Yes,Yes,No,Reduced,9,60.1,64.3,65.2,63.2,Pass
+STU10886,Female,17,School A,Urban,High School,>10 hours,None,Yes,Yes,No,Reduced,4,70.3,82.6,85.9,79.6,Pass
+STU10887,Female,17,School A,Rural,High School,2-5 hours,None,Yes,Yes,Yes,Standard,2,62.4,60.1,76.6,66.4,Pass
+STU10888,Female,17,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,9,75.0,89.9,88.1,84.3,Pass
+STU10889,Female,19,School A,Urban,Bachelor,2-5 hours,None,Yes,No,No,Reduced,2,75.0,64.1,65.4,68.2,Pass
+STU10890,Male,18,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,3,72.1,72.2,74.4,72.9,Pass
+STU10891,Female,17,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,73.6,74.6,83.4,77.2,Pass
+STU10892,Male,20,School B,Rural,High School,2-5 hours,Completed,Yes,Yes,No,Reduced,8,67.0,71.2,62.3,66.8,Pass
+STU10893,Female,18,School A,Rural,Associate,<2 hours,Completed,Yes,No,Yes,Standard,3,65.1,68.9,74.3,69.4,Pass
+STU10894,Female,16,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,Yes,Standard,11,60.7,70.6,62.5,64.6,Pass
+STU10895,Male,20,School A,Urban,Bachelor,<2 hours,Completed,Yes,No,Yes,Standard,4,73.6,60.1,70.1,67.9,Pass
+STU10896,Male,17,School B,Urban,Some College,<2 hours,None,Yes,No,No,Standard,7,73.1,64.3,52.9,63.4,Pass
+STU10897,Female,15,School B,Urban,High School,>10 hours,Completed,Yes,Yes,No,Standard,2,75.8,78.1,77.0,77.0,Pass
+STU10898,Female,18,School A,Urban,Master,<2 hours,None,No,No,Yes,Standard,7,58.8,74.9,61.7,65.1,Pass
+STU10899,Female,16,School A,Rural,Bachelor,2-5 hours,None,Yes,Yes,No,Reduced,3,62.2,55.9,56.8,58.3,Pass
+STU10900,Male,16,School A,Rural,High School,>10 hours,None,Yes,No,No,Standard,2,71.2,74.7,67.2,71.0,Pass
+STU10901,Female,19,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,8,82.8,83.3,79.4,81.8,Pass
+STU10902,Female,16,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Reduced,3,78.3,68.8,77.8,75.0,Pass
+STU10903,Female,19,School A,Urban,High School,5-10 hours,None,Yes,Yes,Yes,Reduced,3,68.9,72.1,73.8,71.6,Pass
+STU10904,Female,21,School B,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Reduced,6,83.9,86.6,84.2,84.9,Pass
+STU10905,Male,18,School B,Urban,Associate,2-5 hours,None,Yes,No,Yes,Standard,6,74.9,78.4,80.9,78.1,Pass
+STU10906,Male,19,School A,Urban,Some College,5-10 hours,Completed,Yes,No,Yes,Reduced,2,86.6,84.5,93.7,88.3,Pass
+STU10907,Female,19,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,Yes,Reduced,8,97.0,98.2,98.0,97.7,Pass
+STU10908,Female,22,School A,Urban,Bachelor,5-10 hours,None,No,Yes,Yes,Standard,2,57.8,69.2,58.6,61.9,Pass
+STU10909,Female,17,School A,Rural,High School,>10 hours,None,Yes,Yes,Yes,Standard,1,61.0,61.4,67.6,63.3,Pass
+STU10910,Female,16,School A,Urban,Associate,2-5 hours,None,Yes,No,No,Standard,4,72.3,76.0,74.8,74.4,Pass
+STU10911,Male,18,School B,Urban,Bachelor,5-10 hours,Completed,Yes,Yes,No,Standard,4,86.8,80.6,83.1,83.5,Pass
+STU10912,Male,18,School B,Urban,Associate,2-5 hours,Completed,Yes,No,Yes,Standard,6,74.2,81.1,72.6,76.0,Pass
+STU10913,Male,16,School A,Rural,Master,5-10 hours,None,Yes,Yes,Yes,Standard,16,80.2,81.5,81.8,81.2,Pass
+STU10914,Male,18,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Reduced,6,72.5,81.9,76.3,76.9,Pass
+STU10915,Male,15,School A,Urban,High School,5-10 hours,Completed,Yes,No,No,Standard,7,67.2,68.1,72.8,69.4,Pass
+STU10916,Male,21,School A,Urban,High School,5-10 hours,None,No,Yes,No,Reduced,2,64.6,54.5,57.4,58.8,Pass
+STU10917,Female,17,School B,Urban,Bachelor,2-5 hours,None,No,Yes,Yes,Standard,10,59.8,75.0,72.2,69.0,Pass
+STU10918,Female,15,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,No,Reduced,5,81.1,86.1,77.1,81.4,Pass
+STU10919,Female,16,School A,Rural,High School,2-5 hours,Completed,Yes,Yes,No,Standard,1,60.5,66.8,67.3,64.9,Pass
+STU10920,Male,17,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,10,65.2,55.2,68.9,63.1,Pass
+STU10921,Female,17,School A,Urban,Bachelor,5-10 hours,Completed,Yes,No,Yes,Standard,4,91.5,93.3,77.5,87.4,Pass
+STU10922,Male,15,School A,Urban,High School,5-10 hours,None,Yes,No,Yes,Reduced,10,50.6,63.2,57.0,56.9,Pass
+STU10923,Male,17,School B,Rural,High School,2-5 hours,None,Yes,Yes,No,Standard,17,77.2,80.3,72.5,76.7,Pass
+STU10924,Male,16,School B,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,1,70.4,70.3,78.9,73.2,Pass
+STU10925,Female,17,School A,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Reduced,3,65.9,58.5,64.2,62.9,Pass
+STU10926,Female,17,School B,Urban,Bachelor,<2 hours,Completed,Yes,Yes,Yes,Standard,9,77.1,84.1,67.2,76.1,Pass
+STU10927,Female,17,School A,Urban,Associate,2-5 hours,Completed,Yes,No,Yes,Standard,4,83.9,78.4,69.7,77.3,Pass
+STU10928,Male,17,School B,Urban,Some College,>10 hours,None,Yes,Yes,No,Standard,0,69.2,70.2,70.5,70.0,Pass
+STU10929,Male,16,School A,Urban,Master,2-5 hours,None,Yes,Yes,No,Standard,3,75.8,79.6,79.5,78.3,Pass
+STU10930,Male,15,School A,Urban,Some College,>10 hours,None,Yes,Yes,Yes,Standard,4,88.2,89.3,91.6,89.7,Pass
+STU10931,Female,16,School B,Rural,Some College,2-5 hours,None,Yes,No,No,Standard,4,62.4,64.6,62.8,63.3,Pass
+STU10932,Female,19,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,2,85.7,83.0,86.5,85.1,Pass
+STU10933,Female,22,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,12,54.3,51.4,62.3,56.0,Pass
+STU10934,Male,21,School A,Urban,Bachelor,5-10 hours,None,Yes,No,Yes,Reduced,2,80.1,81.0,85.5,82.2,Pass
+STU10935,Male,18,School A,Urban,High School,5-10 hours,Completed,Yes,Yes,No,Reduced,7,60.8,67.5,72.5,66.9,Pass
+STU10936,Female,18,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,No,Standard,3,82.5,98.7,95.3,92.2,Pass
+STU10937,Male,17,School A,Urban,Associate,5-10 hours,None,Yes,No,No,Standard,3,61.2,64.6,64.8,63.5,Pass
+STU10938,Female,19,School B,Rural,Associate,2-5 hours,Completed,Yes,No,No,Standard,11,69.6,68.4,70.1,69.4,Pass
+STU10939,Male,19,School A,Urban,Master,<2 hours,None,Yes,Yes,Yes,Reduced,6,51.7,79.2,63.3,64.7,Pass
+STU10940,Female,20,School A,Urban,Some College,2-5 hours,Completed,Yes,No,No,Standard,6,63.4,68.5,73.4,68.4,Pass
+STU10941,Female,20,School A,Urban,Bachelor,5-10 hours,Completed,Yes,No,No,Standard,8,78.6,91.8,88.8,86.4,Pass
+STU10942,Male,17,School B,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,5,70.2,74.7,84.5,76.5,Pass
+STU10943,Female,19,School A,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,11,95.2,90.6,87.4,91.1,Pass
+STU10944,Female,19,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Reduced,2,64.6,74.2,74.3,71.0,Pass
+STU10945,Female,17,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,6,86.4,90.1,83.6,86.7,Pass
+STU10946,Female,21,School A,Urban,High School,5-10 hours,None,Yes,No,No,Standard,16,66.2,56.3,51.1,57.9,Pass
+STU10947,Male,16,School B,Rural,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,6,78.3,78.7,83.5,80.2,Pass
+STU10948,Male,22,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,Yes,Standard,1,79.5,86.6,78.6,81.6,Pass
+STU10949,Male,19,School B,Urban,Master,5-10 hours,None,Yes,Yes,Yes,Standard,6,92.8,92.1,88.8,91.2,Pass
+STU10950,Female,16,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,No,Reduced,13,70.6,83.5,77.4,77.2,Pass
+STU10951,Male,18,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,3,39.1,56.0,50.1,48.4,Pass
+STU10952,Female,15,School A,Urban,Some College,>10 hours,None,Yes,Yes,Yes,Standard,3,64.9,62.0,66.4,64.4,Pass
+STU10953,Female,19,School A,Urban,Bachelor,<2 hours,None,Yes,No,No,Standard,9,59.0,72.5,53.7,61.7,Pass
+STU10954,Female,19,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,7,84.0,78.5,78.2,80.2,Pass
+STU10955,Male,18,School A,Urban,High School,5-10 hours,None,Yes,No,No,Reduced,6,67.1,71.5,75.6,71.4,Pass
+STU10956,Male,20,School A,Rural,Associate,2-5 hours,None,Yes,No,No,Standard,2,65.7,61.2,71.9,66.3,Pass
+STU10957,Male,16,School A,Rural,High School,2-5 hours,None,No,Yes,No,Standard,3,60.1,56.0,61.5,59.2,Pass
+STU10958,Female,17,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,80.0,88.2,83.1,83.8,Pass
+STU10959,Female,17,School A,Urban,High School,2-5 hours,Completed,Yes,No,Yes,Reduced,1,59.4,73.8,60.1,64.4,Pass
+STU10960,Male,15,School A,Urban,High School,5-10 hours,Completed,Yes,No,No,Reduced,11,66.2,71.5,71.0,69.6,Pass
+STU10961,Male,18,School A,Rural,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,8,73.0,76.4,69.3,72.9,Pass
+STU10962,Female,17,School A,Urban,Master,<2 hours,None,Yes,Yes,Yes,Standard,9,68.2,71.5,61.8,67.2,Pass
+STU10963,Female,17,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Reduced,8,72.8,83.3,74.1,76.7,Pass
+STU10964,Female,17,School A,Rural,Master,2-5 hours,Completed,Yes,Yes,Yes,Reduced,5,80.5,90.9,83.6,85.0,Pass
+STU10965,Male,20,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Standard,5,79.6,84.4,74.1,79.4,Pass
+STU10966,Female,17,School A,Urban,Some College,2-5 hours,None,Yes,Yes,Yes,Reduced,2,60.7,58.5,57.4,58.9,Pass
+STU10967,Male,20,School B,Rural,Some College,2-5 hours,None,Yes,Yes,No,Standard,8,63.8,75.3,70.1,69.7,Pass
+STU10968,Female,17,School A,Urban,Associate,<2 hours,None,Yes,No,No,Standard,24,66.1,73.2,75.0,71.4,Pass
+STU10969,Male,17,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,6,69.5,77.4,72.2,73.0,Pass
+STU10970,Female,18,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,Yes,Standard,9,78.4,75.6,81.7,78.6,Pass
+STU10971,Female,17,School B,Urban,Bachelor,5-10 hours,None,No,Yes,Yes,Standard,9,66.7,70.9,73.8,70.5,Pass
+STU10972,Female,17,School A,Rural,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,13,82.1,84.4,78.1,81.5,Pass
+STU10973,Female,18,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Reduced,3,69.5,74.2,68.6,70.8,Pass
+STU10974,Male,16,School A,Urban,Associate,>10 hours,None,No,Yes,No,Reduced,2,71.0,66.3,67.1,68.1,Pass
+STU10975,Female,17,School A,Rural,High School,2-5 hours,Completed,Yes,No,Yes,Standard,5,79.7,78.2,80.2,79.4,Pass
+STU10976,Male,18,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,5,48.7,59.0,52.2,53.3,Pass
+STU10977,Female,17,School A,Rural,Bachelor,5-10 hours,None,No,No,Yes,Standard,21,66.1,64.1,80.2,70.1,Pass
+STU10978,Female,20,School B,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Standard,3,73.7,64.6,66.5,68.3,Pass
+STU10979,Male,17,School A,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,16,67.2,82.0,62.4,70.5,Pass
+STU10980,Female,21,School B,Urban,High School,5-10 hours,Completed,Yes,Yes,No,Reduced,5,64.9,76.8,77.8,73.2,Pass
+STU10981,Male,19,School A,Urban,Master,>10 hours,Completed,Yes,No,Yes,Standard,2,84.1,75.6,82.6,80.8,Pass
+STU10982,Male,21,School B,Rural,Master,>10 hours,None,Yes,Yes,Yes,Standard,14,81.1,84.5,83.2,82.9,Pass
+STU10983,Male,20,School B,Rural,Associate,2-5 hours,None,Yes,Yes,No,Reduced,3,75.6,75.2,68.2,73.0,Pass
+STU10984,Female,16,School A,Rural,Bachelor,5-10 hours,Completed,No,Yes,No,Standard,9,72.2,61.4,62.7,65.4,Pass
+STU10985,Female,18,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,5,79.3,83.2,72.0,78.2,Pass
+STU10986,Male,16,School B,Rural,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,16,75.6,69.2,78.3,74.4,Pass
+STU10987,Female,19,School A,Urban,Bachelor,2-5 hours,Completed,No,Yes,No,Reduced,12,67.0,70.7,75.1,70.9,Pass
+STU10988,Female,18,School B,Rural,Bachelor,<2 hours,Completed,Yes,No,Yes,Standard,5,78.0,84.5,88.3,83.6,Pass
+STU10989,Female,17,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Standard,15,70.0,77.9,69.6,72.5,Pass
+STU10990,Male,21,School A,Rural,Associate,<2 hours,None,Yes,Yes,Yes,Standard,8,57.0,72.1,66.2,65.1,Pass
+STU10991,Male,16,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Standard,6,69.6,66.1,70.5,68.7,Pass
+STU10992,Male,18,School B,Urban,Bachelor,2-5 hours,None,Yes,No,No,Standard,5,55.0,55.9,59.8,56.9,Pass
+STU10993,Male,19,School B,Urban,High School,5-10 hours,Completed,Yes,Yes,No,Standard,10,77.6,68.7,77.8,74.7,Pass
+STU10994,Female,15,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,4,76.2,73.5,76.2,75.3,Pass
+STU10995,Male,18,School B,Urban,Bachelor,5-10 hours,None,Yes,No,No,Reduced,4,76.8,80.6,74.6,77.3,Pass
+STU10996,Female,19,School B,Rural,Associate,5-10 hours,None,Yes,Yes,No,Standard,2,43.6,49.9,44.8,46.1,Pass
+STU10997,Male,15,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Reduced,7,73.0,79.9,73.6,75.5,Pass
+STU10998,Female,18,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,Yes,Standard,3,86.5,83.5,95.1,88.4,Pass
+STU10999,Male,17,School B,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Reduced,11,72.3,68.8,77.6,72.9,Pass
+STU11000,Female,19,School A,Urban,Some College,5-10 hours,Completed,Yes,No,Yes,Standard,4,81.2,88.0,78.5,82.6,Pass
+STU11001,Female,16,School A,Urban,Some College,5-10 hours,Completed,Yes,No,No,Standard,7,73.0,82.5,73.7,76.4,Pass
+STU11002,Female,21,School B,Rural,Associate,5-10 hours,None,Yes,No,Yes,Standard,11,56.7,64.3,64.1,61.7,Pass
+STU11003,Female,20,School A,Rural,Bachelor,2-5 hours,Completed,Yes,No,No,Reduced,14,79.3,68.7,82.5,76.8,Pass
+STU11004,Female,16,School B,Urban,Associate,2-5 hours,None,Yes,No,No,Standard,6,53.9,56.6,58.4,56.3,Pass
+STU11005,Male,17,School B,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Standard,1,77.0,77.5,81.9,78.8,Pass
+STU11006,Female,18,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,1,74.1,73.5,77.2,74.9,Pass
+STU11007,Male,19,School A,Rural,Bachelor,5-10 hours,Completed,Yes,Yes,No,Standard,10,67.7,71.3,72.0,70.3,Pass
+STU11008,Female,18,School A,Urban,Bachelor,<2 hours,Completed,Yes,No,Yes,Standard,3,75.9,81.1,88.5,81.8,Pass
+STU11009,Male,16,School A,Urban,High School,<2 hours,None,Yes,No,Yes,Reduced,6,71.7,71.4,68.3,70.5,Pass
+STU11010,Female,16,School A,Rural,Bachelor,2-5 hours,None,Yes,No,No,Standard,11,86.4,83.9,86.3,85.5,Pass
+STU11011,Male,22,School A,Rural,Associate,<2 hours,None,Yes,Yes,No,Standard,4,74.5,65.6,79.8,73.3,Pass
+STU11012,Male,18,School A,Urban,High School,>10 hours,None,Yes,Yes,Yes,Standard,1,69.2,61.5,65.1,65.3,Pass
+STU11013,Female,20,School A,Urban,Bachelor,<2 hours,None,Yes,No,No,Reduced,6,49.3,47.1,46.4,47.6,Pass
+STU11014,Male,18,School A,Urban,Bachelor,5-10 hours,None,No,Yes,No,Standard,8,64.2,74.1,75.6,71.3,Pass
+STU11015,Female,21,School A,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,3,74.7,72.3,74.3,73.8,Pass
+STU11016,Female,16,School A,Urban,Bachelor,>10 hours,Completed,Yes,Yes,No,Standard,7,82.2,86.9,79.9,83.0,Pass
+STU11017,Male,16,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Standard,1,85.9,86.7,78.8,83.8,Pass
+STU11018,Male,21,School B,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,4,70.2,71.4,69.5,70.4,Pass
+STU11019,Female,21,School A,Urban,Some College,<2 hours,Completed,Yes,No,Yes,Standard,5,57.5,72.2,78.6,69.4,Pass
+STU11020,Female,17,School B,Urban,Some College,2-5 hours,None,No,No,Yes,Standard,12,76.9,68.4,78.5,74.6,Pass
+STU11021,Male,17,School B,Urban,Bachelor,>10 hours,Completed,Yes,Yes,No,Reduced,4,82.9,78.6,81.3,80.9,Pass
+STU11022,Male,18,School A,Rural,Bachelor,>10 hours,None,Yes,Yes,Yes,Standard,3,88.7,99.3,94.1,94.0,Pass
+STU11023,Male,17,School A,Urban,Bachelor,2-5 hours,Completed,Yes,No,No,Standard,3,71.1,78.9,71.1,73.7,Pass
+STU11024,Male,16,School A,Rural,High School,2-5 hours,None,Yes,Yes,No,Standard,7,59.6,63.8,69.8,64.4,Pass
+STU11025,Male,20,School A,Urban,Some College,<2 hours,Completed,Yes,Yes,No,Standard,10,61.7,61.1,62.5,61.8,Pass
+STU11026,Female,17,School A,Urban,High School,2-5 hours,Completed,Yes,No,Yes,Standard,11,84.0,81.0,83.3,82.8,Pass
+STU11027,Male,19,School A,Rural,Bachelor,2-5 hours,None,Yes,Yes,Yes,Standard,18,75.3,76.7,74.6,75.5,Pass
+STU11028,Female,15,School B,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,6,57.9,79.1,65.8,67.6,Pass
+STU11029,Male,15,School B,Urban,Associate,2-5 hours,None,Yes,No,Yes,Standard,3,61.1,70.8,67.4,66.4,Pass
+STU11030,Female,18,School B,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Standard,4,76.6,89.6,87.2,84.5,Pass
+STU11031,Male,17,School A,Urban,Bachelor,<2 hours,Completed,Yes,Yes,Yes,Standard,3,80.1,79.8,80.7,80.2,Pass
+STU11032,Male,18,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,5,90.7,87.4,87.8,88.6,Pass
+STU11033,Female,16,School B,Urban,Some College,<2 hours,None,Yes,No,No,Standard,4,54.6,66.7,65.4,62.2,Pass
+STU11034,Male,21,School A,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Standard,12,64.4,69.5,73.5,69.1,Pass
+STU11035,Female,19,School A,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Standard,7,63.2,66.9,66.1,65.4,Pass
+STU11036,Male,20,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,14,59.5,70.8,60.1,63.5,Pass
+STU11037,Female,16,School A,Urban,Bachelor,<2 hours,None,Yes,No,Yes,Reduced,11,64.5,65.7,64.6,64.9,Pass
+STU11038,Female,17,School A,Urban,Associate,5-10 hours,None,Yes,No,No,Standard,8,57.8,68.1,62.5,62.8,Pass
+STU11039,Female,17,School A,Urban,Associate,5-10 hours,None,Yes,Yes,No,Standard,1,80.3,87.5,76.1,81.3,Pass
+STU11040,Female,18,School A,Urban,High School,>10 hours,Completed,Yes,Yes,Yes,Reduced,8,86.0,85.9,83.7,85.2,Pass
+STU11041,Female,17,School A,Urban,Some College,5-10 hours,Completed,Yes,No,No,Reduced,18,80.9,80.6,82.3,81.3,Pass
+STU11042,Male,15,School A,Urban,Some College,<2 hours,None,No,No,No,Standard,5,59.3,84.4,73.7,72.5,Pass
+STU11043,Male,17,School A,Urban,Some College,<2 hours,None,Yes,No,No,Standard,11,66.5,63.3,68.4,66.1,Pass
+STU11044,Male,17,School A,Urban,Associate,2-5 hours,Completed,Yes,No,Yes,Reduced,2,91.7,80.8,79.2,83.9,Pass
+STU11045,Female,17,School B,Urban,Associate,>10 hours,None,Yes,Yes,Yes,Reduced,3,90.3,83.1,78.1,83.8,Pass
+STU11046,Female,16,School A,Rural,Bachelor,>10 hours,Completed,Yes,Yes,Yes,Reduced,5,90.0,98.9,91.7,93.5,Pass
+STU11047,Female,17,School A,Rural,Master,2-5 hours,Completed,Yes,Yes,No,Standard,3,83.9,84.4,90.6,86.3,Pass
+STU11048,Male,18,School B,Urban,High School,2-5 hours,Completed,Yes,No,Yes,Standard,2,63.1,67.5,69.5,66.7,Pass
+STU11049,Male,17,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Reduced,4,66.0,80.5,71.5,72.7,Pass
+STU11050,Female,17,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,7,81.7,83.3,82.4,82.5,Pass
+STU11051,Male,18,School B,Rural,Master,>10 hours,Completed,No,No,Yes,Standard,10,75.6,73.7,75.9,75.1,Pass
+STU11052,Female,19,School A,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Reduced,8,71.9,73.3,60.5,68.6,Pass
+STU11053,Female,17,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,8,50.5,52.7,67.3,56.8,Pass
+STU11054,Female,18,School A,Urban,Some College,2-5 hours,None,Yes,Yes,No,Standard,5,65.6,61.3,68.1,65.0,Pass
+STU11055,Female,21,School B,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,3,59.9,56.3,67.9,61.4,Pass
+STU11056,Male,18,School B,Rural,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,4,61.6,70.9,64.4,65.6,Pass
+STU11057,Male,20,School B,Rural,Associate,5-10 hours,None,Yes,No,Yes,Standard,5,75.4,75.5,76.4,75.8,Pass
+STU11058,Female,19,School B,Urban,Associate,<2 hours,Completed,Yes,No,Yes,Standard,12,68.6,66.6,69.7,68.3,Pass
+STU11059,Male,15,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,15,75.2,72.4,81.5,76.4,Pass
+STU11060,Male,17,School B,Urban,Some College,2-5 hours,None,No,Yes,Yes,Standard,6,83.3,82.9,82.6,82.9,Pass
+STU11061,Male,19,School A,Urban,Associate,<2 hours,Completed,Yes,Yes,No,Standard,11,75.2,80.8,82.1,79.4,Pass
+STU11062,Male,22,School B,Rural,High School,<2 hours,Completed,Yes,No,No,Reduced,2,61.1,56.3,52.4,56.6,Pass
+STU11063,Female,18,School A,Urban,Associate,2-5 hours,None,Yes,No,No,Standard,4,67.3,71.5,78.9,72.6,Pass
+STU11064,Male,16,School A,Urban,Bachelor,<2 hours,None,Yes,No,No,Reduced,7,68.5,60.7,66.5,65.2,Pass
+STU11065,Female,18,School B,Urban,Bachelor,2-5 hours,None,No,Yes,Yes,Standard,7,69.5,69.3,65.4,68.1,Pass
+STU11066,Male,16,School B,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,15,57.9,65.7,72.8,65.5,Pass
+STU11067,Female,19,School A,Rural,Bachelor,5-10 hours,None,Yes,Yes,Yes,Reduced,7,69.7,82.1,80.0,77.3,Pass
+STU11068,Male,18,School A,Urban,Bachelor,>10 hours,Completed,Yes,Yes,No,Reduced,2,81.8,83.6,71.6,79.0,Pass
+STU11069,Female,19,School A,Rural,High School,2-5 hours,None,Yes,Yes,Yes,Standard,8,75.9,72.8,73.2,74.0,Pass
+STU11070,Female,20,School B,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Standard,4,72.0,84.9,83.5,80.1,Pass
+STU11071,Male,18,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Standard,7,93.2,92.4,90.5,92.0,Pass
+STU11072,Male,18,School A,Urban,Some College,<2 hours,Completed,Yes,No,No,Standard,9,70.4,70.6,80.3,73.8,Pass
+STU11073,Female,19,School A,Urban,High School,2-5 hours,None,Yes,Yes,No,Standard,1,66.2,83.1,77.6,75.6,Pass
+STU11074,Male,20,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,4,58.9,64.5,65.3,62.9,Pass
+STU11075,Male,20,School A,Urban,High School,5-10 hours,Completed,Yes,No,Yes,Standard,5,58.5,68.1,77.7,68.1,Pass
+STU11076,Female,15,School A,Urban,Associate,2-5 hours,Completed,No,Yes,Yes,Reduced,7,57.4,72.7,74.0,68.0,Pass
+STU11077,Male,18,School B,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,3,67.7,68.4,64.3,66.8,Pass
+STU11078,Female,16,School B,Urban,High School,>10 hours,None,Yes,No,Yes,Reduced,3,61.0,60.5,49.5,57.0,Pass
+STU11079,Male,20,School B,Urban,Bachelor,<2 hours,None,Yes,Yes,Yes,Reduced,17,46.8,56.6,64.8,56.1,Pass
+STU11080,Female,18,School A,Rural,Some College,>10 hours,Completed,Yes,Yes,No,Reduced,6,82.0,94.1,85.6,87.2,Pass
+STU11081,Female,17,School A,Rural,Some College,5-10 hours,None,No,Yes,No,Standard,2,75.7,75.0,71.6,74.1,Pass
+STU11082,Male,16,School B,Urban,High School,5-10 hours,None,Yes,No,No,Standard,3,63.5,71.4,64.7,66.5,Pass
+STU11083,Male,17,School B,Rural,Bachelor,5-10 hours,Completed,No,No,No,Standard,16,79.2,77.3,79.2,78.6,Pass
+STU11084,Male,19,School A,Urban,Master,<2 hours,None,Yes,No,No,Standard,13,50.0,52.3,52.2,51.5,Pass
+STU11085,Male,16,School B,Rural,Associate,2-5 hours,Completed,Yes,No,Yes,Standard,3,71.3,80.9,70.1,74.1,Pass
+STU11086,Male,16,School B,Urban,High School,5-10 hours,Completed,Yes,Yes,Yes,Reduced,3,81.0,86.8,90.2,86.0,Pass
+STU11087,Male,20,School A,Urban,Some College,5-10 hours,Completed,Yes,No,No,Standard,2,59.7,71.4,72.9,68.0,Pass
+STU11088,Male,19,School B,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,11,42.4,58.8,61.4,54.2,Pass
+STU11089,Female,16,School A,Rural,Bachelor,<2 hours,Completed,No,Yes,No,Reduced,5,70.9,72.3,69.5,70.9,Pass
+STU11090,Female,17,School A,Urban,High School,2-5 hours,Completed,No,No,Yes,Reduced,2,83.0,78.8,84.9,82.2,Pass
+STU11091,Female,22,School A,Urban,Master,2-5 hours,None,Yes,No,Yes,Standard,3,82.1,74.7,79.6,78.8,Pass
+STU11092,Male,19,School A,Urban,Associate,2-5 hours,None,No,Yes,Yes,Standard,6,60.0,62.4,66.4,62.9,Pass
+STU11093,Female,18,School B,Urban,Associate,5-10 hours,None,No,Yes,No,Standard,4,76.3,94.9,93.8,88.3,Pass
+STU11094,Female,17,School A,Rural,Bachelor,5-10 hours,Completed,Yes,Yes,No,Reduced,13,61.0,60.1,68.3,63.1,Pass
+STU11095,Male,17,School A,Urban,High School,5-10 hours,None,Yes,No,Yes,Standard,6,72.2,69.7,72.6,71.5,Pass
+STU11096,Female,15,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,7,76.9,74.3,82.8,78.0,Pass
+STU11097,Female,19,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,9,64.1,48.1,57.7,56.6,Pass
+STU11098,Male,15,School B,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,Yes,Standard,9,70.5,76.0,78.2,74.9,Pass
+STU11099,Male,15,School A,Urban,Associate,2-5 hours,Completed,No,No,Yes,Reduced,4,67.9,81.4,77.2,75.5,Pass
+STU11100,Female,19,School B,Rural,High School,<2 hours,Completed,Yes,No,No,Standard,3,73.7,79.5,78.6,77.3,Pass
+STU11101,Female,21,School A,Rural,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,6,65.9,72.8,68.3,69.0,Pass
+STU11102,Female,19,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,5,71.4,64.1,54.3,63.3,Pass
+STU11103,Male,18,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,6,74.9,71.5,75.0,73.8,Pass
+STU11104,Male,18,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,Yes,Standard,8,71.4,65.5,78.7,71.9,Pass
+STU11105,Female,17,School B,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,14,69.1,77.8,67.6,71.5,Pass
+STU11106,Male,17,School A,Urban,Bachelor,<2 hours,Completed,Yes,Yes,No,Reduced,6,74.7,79.0,79.4,77.7,Pass
+STU11107,Female,18,School A,Urban,Associate,5-10 hours,None,Yes,No,No,Reduced,8,70.2,75.7,70.1,72.0,Pass
+STU11108,Female,17,School B,Urban,Associate,2-5 hours,None,Yes,Yes,No,Standard,2,66.3,69.3,71.4,69.0,Pass
+STU11109,Male,18,School B,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Reduced,3,64.3,76.9,76.8,72.7,Pass
+STU11110,Female,20,School A,Urban,High School,<2 hours,None,Yes,Yes,No,Standard,6,76.7,64.6,74.8,72.0,Pass
+STU11111,Female,22,School B,Rural,Master,>10 hours,None,Yes,No,No,Standard,2,85.0,92.3,98.2,91.8,Pass
+STU11112,Female,15,School B,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,8,78.9,73.6,77.3,76.6,Pass
+STU11113,Male,17,School B,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Standard,7,65.4,82.3,79.3,75.7,Pass
+STU11114,Male,16,School B,Rural,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,3,70.9,85.3,68.0,74.7,Pass
+STU11115,Male,17,School B,Urban,Some College,5-10 hours,Completed,Yes,Yes,No,Standard,4,75.3,71.6,70.3,72.4,Pass
+STU11116,Female,17,School B,Urban,Associate,5-10 hours,None,No,Yes,No,Reduced,12,72.8,72.0,66.4,70.4,Pass
+STU11117,Female,16,School A,Urban,Bachelor,2-5 hours,None,No,Yes,No,Standard,6,65.3,70.9,78.1,71.4,Pass
+STU11118,Male,19,School A,Urban,Bachelor,5-10 hours,None,Yes,No,No,Reduced,21,64.9,63.3,70.1,66.1,Pass
+STU11119,Female,18,School A,Urban,Bachelor,2-5 hours,Completed,Yes,Yes,No,Standard,4,82.8,96.4,89.4,89.5,Pass
+STU11120,Male,20,School B,Urban,Some College,5-10 hours,None,Yes,Yes,Yes,Standard,5,69.8,77.6,75.6,74.3,Pass
+STU11121,Male,15,School A,Urban,Associate,2-5 hours,Completed,No,Yes,No,Standard,5,61.6,73.5,72.1,69.1,Pass
+STU11122,Female,15,School B,Urban,High School,<2 hours,None,Yes,Yes,No,Standard,2,64.7,66.4,59.2,63.4,Pass
+STU11123,Male,17,School A,Urban,Bachelor,>10 hours,Completed,Yes,Yes,No,Standard,4,80.7,86.7,85.5,84.3,Pass
+STU11124,Female,16,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Reduced,5,88.9,81.9,70.7,80.5,Pass
+STU11125,Female,17,School A,Urban,Associate,2-5 hours,None,Yes,No,Yes,Reduced,9,70.0,72.0,72.0,71.3,Pass
+STU11126,Male,22,School A,Urban,High School,>10 hours,Completed,Yes,No,Yes,Standard,11,70.3,74.3,83.0,75.9,Pass
+STU11127,Female,16,School A,Rural,Bachelor,2-5 hours,None,Yes,No,Yes,Standard,4,62.8,65.2,73.4,67.1,Pass
+STU11128,Male,16,School A,Urban,Bachelor,2-5 hours,None,Yes,Yes,No,Standard,1,81.6,72.2,77.2,77.0,Pass
+STU11129,Male,18,School B,Urban,Bachelor,5-10 hours,None,Yes,No,No,Standard,6,65.4,77.6,75.8,72.9,Pass
+STU11130,Male,18,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,2,69.3,65.9,64.5,66.6,Pass
+STU11131,Male,18,School A,Urban,Master,2-5 hours,Completed,Yes,Yes,No,Standard,6,78.0,83.8,82.6,81.5,Pass
+STU11132,Female,17,School A,Rural,High School,5-10 hours,None,Yes,Yes,No,Reduced,7,56.4,68.7,72.1,65.7,Pass
+STU11133,Female,20,School A,Urban,Some College,<2 hours,Completed,No,No,Yes,Standard,4,69.6,76.0,78.3,74.6,Pass
+STU11134,Male,16,School A,Urban,High School,2-5 hours,None,Yes,No,No,Standard,6,59.2,56.3,51.8,55.8,Pass
+STU11135,Male,17,School B,Rural,Some College,2-5 hours,Completed,No,Yes,No,Standard,1,84.5,92.4,91.9,89.6,Pass
+STU11136,Female,19,School B,Rural,Associate,5-10 hours,None,Yes,Yes,No,Reduced,7,76.1,75.2,67.4,72.9,Pass
+STU11137,Female,20,School A,Urban,High School,<2 hours,None,Yes,Yes,No,Standard,10,61.0,55.0,58.0,58.0,Pass
+STU11138,Female,17,School A,Urban,Some College,2-5 hours,Completed,Yes,Yes,No,Standard,7,73.1,80.7,71.1,75.0,Pass
+STU11139,Female,18,School A,Urban,Associate,5-10 hours,Completed,Yes,No,Yes,Standard,3,74.2,78.7,78.2,77.0,Pass
+STU11140,Male,15,School A,Urban,Bachelor,<2 hours,None,Yes,Yes,No,Reduced,10,57.1,75.9,68.4,67.1,Pass
+STU11141,Female,16,School B,Urban,Bachelor,2-5 hours,Completed,No,No,Yes,Standard,8,59.8,64.2,66.6,63.5,Pass
+STU11142,Male,15,School A,Urban,Associate,5-10 hours,None,No,No,Yes,Standard,8,59.3,66.4,64.8,63.5,Pass
+STU11143,Male,19,School B,Rural,High School,5-10 hours,None,Yes,Yes,Yes,Standard,12,70.8,69.7,83.5,74.7,Pass
+STU11144,Male,17,School A,Urban,Bachelor,<2 hours,Completed,Yes,No,Yes,Reduced,9,57.3,64.5,61.2,61.0,Pass
+STU11145,Female,19,School A,Urban,High School,5-10 hours,None,Yes,No,Yes,Standard,2,66.5,59.1,55.9,60.5,Pass
+STU11146,Female,15,School A,Urban,Some College,5-10 hours,None,Yes,Yes,No,Standard,2,74.7,75.4,79.4,76.5,Pass
+STU11147,Male,20,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Reduced,7,55.5,62.0,62.8,60.1,Pass
+STU11148,Male,20,School B,Urban,Associate,5-10 hours,Completed,Yes,No,Yes,Standard,4,77.2,72.4,79.4,76.3,Pass
+STU11149,Female,16,School A,Rural,Some College,5-10 hours,Completed,Yes,Yes,Yes,Standard,4,78.3,76.3,75.0,76.5,Pass
+STU11150,Male,15,School B,Urban,Associate,2-5 hours,Completed,Yes,Yes,Yes,Standard,8,63.7,66.5,66.8,65.7,Pass
+STU11151,Female,15,School B,Urban,Some College,2-5 hours,None,No,Yes,No,Reduced,2,67.2,71.0,63.4,67.2,Pass
+STU11152,Male,20,School A,Urban,Associate,5-10 hours,None,Yes,Yes,Yes,Reduced,8,67.8,63.9,67.1,66.3,Pass
+STU11153,Female,16,School A,Urban,Associate,>10 hours,None,Yes,No,Yes,Standard,4,69.3,69.5,72.4,70.4,Pass
+STU11154,Female,18,School A,Urban,High School,2-5 hours,Completed,Yes,Yes,No,Standard,6,60.4,72.4,68.9,67.2,Pass
+STU11155,Male,17,School A,Rural,Some College,5-10 hours,None,Yes,Yes,No,Reduced,3,69.3,71.2,67.2,69.2,Pass
+STU11156,Female,19,School B,Urban,Associate,5-10 hours,None,Yes,Yes,No,Reduced,9,68.7,70.3,68.4,69.1,Pass
+STU11157,Female,18,School A,Urban,Associate,5-10 hours,None,Yes,No,No,Standard,10,61.5,60.9,56.1,59.5,Pass
+STU11158,Female,18,School B,Rural,High School,>10 hours,Completed,Yes,Yes,Yes,Standard,30,67.2,76.1,67.7,70.3,Pass
+STU11159,Female,22,School A,Urban,Associate,<2 hours,None,Yes,No,No,Reduced,8,63.0,66.9,62.8,64.2,Pass
+STU11160,Male,16,School A,Rural,Some College,<2 hours,Completed,Yes,No,Yes,Standard,11,62.3,63.5,61.1,62.3,Pass
+STU11161,Female,20,School B,Urban,High School,2-5 hours,Completed,Yes,Yes,Yes,Standard,2,64.0,57.5,66.6,62.7,Pass
+STU11162,Male,15,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,12,62.4,64.2,64.8,63.8,Pass
+STU11163,Male,18,School B,Rural,Associate,2-5 hours,None,Yes,Yes,No,Reduced,2,71.0,71.6,70.8,71.1,Pass
+STU11164,Female,20,School A,Urban,Some College,5-10 hours,Completed,Yes,No,Yes,Standard,15,72.7,70.0,72.0,71.6,Pass
+STU11165,Female,19,School B,Urban,Bachelor,>10 hours,None,Yes,Yes,Yes,Standard,6,94.1,90.1,92.6,92.3,Pass
+STU11166,Male,19,School B,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,1,78.8,75.3,79.0,77.7,Pass
+STU11167,Male,17,School B,Urban,Bachelor,5-10 hours,Completed,Yes,Yes,No,Standard,4,73.9,75.2,81.7,76.9,Pass
+STU11168,Male,17,School A,Urban,Some College,<2 hours,None,Yes,Yes,Yes,Standard,11,67.2,68.0,77.8,71.0,Pass
+STU11169,Male,17,School B,Urban,Associate,2-5 hours,Completed,Yes,No,Yes,Standard,4,70.9,83.8,81.1,78.6,Pass
+STU11170,Female,18,School A,Urban,Bachelor,<2 hours,Completed,Yes,No,Yes,Standard,6,68.3,66.4,81.2,72.0,Pass
+STU11171,Female,18,School B,Urban,Some College,2-5 hours,None,Yes,Yes,No,Reduced,10,64.4,75.7,82.7,74.3,Pass
+STU11172,Male,17,School A,Urban,High School,2-5 hours,None,Yes,Yes,Yes,Standard,5,59.0,55.9,68.9,61.3,Pass
+STU11173,Female,17,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,No,Reduced,12,75.8,72.9,70.0,72.9,Pass
+STU11174,Male,17,School A,Urban,Master,5-10 hours,Completed,Yes,Yes,Yes,Standard,3,90.3,92.9,96.5,93.2,Pass
+STU11175,Female,17,School A,Urban,Master,2-5 hours,None,Yes,Yes,Yes,Standard,1,77.1,74.8,85.3,79.1,Pass
+STU11176,Male,16,School A,Urban,High School,<2 hours,None,Yes,Yes,Yes,Standard,6,61.6,65.2,68.6,65.1,Pass
+STU11177,Female,20,School B,Urban,Bachelor,<2 hours,None,Yes,No,Yes,Standard,7,61.0,63.0,51.7,58.6,Pass
+STU11178,Female,18,School A,Urban,Some College,>10 hours,None,Yes,Yes,Yes,Standard,3,55.3,64.5,63.0,60.9,Pass
+STU11179,Female,16,School B,Urban,High School,>10 hours,Completed,Yes,No,Yes,Standard,6,83.8,98.4,92.9,91.7,Pass
+STU11180,Female,19,School A,Urban,Associate,2-5 hours,None,Yes,Yes,No,Reduced,2,69.8,66.1,81.6,72.5,Pass
+STU11181,Male,20,School B,Urban,Associate,2-5 hours,None,Yes,Yes,Yes,Standard,6,75.3,66.7,60.3,67.4,Pass
+STU11182,Female,16,School B,Rural,Associate,2-5 hours,None,Yes,Yes,Yes,Reduced,3,64.1,75.6,68.8,69.5,Pass
+STU11183,Female,16,School A,Rural,Bachelor,5-10 hours,Completed,Yes,Yes,Yes,Standard,1,76.5,79.8,65.9,74.1,Pass
+STU11184,Female,15,School B,Urban,Some College,2-5 hours,Completed,Yes,Yes,Yes,Standard,5,76.3,81.6,72.9,76.9,Pass
+STU11185,Female,15,School B,Rural,Associate,<2 hours,Completed,Yes,No,Yes,Standard,3,49.1,70.2,75.6,65.0,Pass
+STU11186,Male,19,School B,Rural,Some College,2-5 hours,Completed,Yes,No,Yes,Standard,1,62.7,67.5,62.2,64.1,Pass
+STU11187,Female,22,School A,Urban,High School,2-5 hours,None,Yes,No,Yes,Standard,7,50.7,63.6,50.3,54.9,Pass
+STU11188,Male,15,School A,Rural,Some College,2-5 hours,None,Yes,Yes,Yes,Standard,2,54.2,58.9,60.6,57.9,Pass
+STU11189,Female,19,School B,Urban,Master,<2 hours,None,Yes,Yes,No,Standard,9,72.3,77.6,77.7,75.9,Pass
+STU11190,Male,15,School A,Urban,Associate,5-10 hours,None,Yes,Yes,No,Reduced,5,59.6,66.7,67.0,64.4,Pass
+STU11191,Female,18,School B,Urban,High School,2-5 hours,None,Yes,No,No,Standard,5,65.0,65.1,71.0,67.0,Pass
+STU11192,Female,19,School A,Urban,Bachelor,2-5 hours,None,Yes,No,Yes,Reduced,11,72.0,77.4,72.0,73.8,Pass
+STU11193,Male,17,School B,Urban,Master,2-5 hours,None,No,Yes,No,Standard,7,68.3,65.5,72.9,68.9,Pass
+STU11194,Male,15,School A,Rural,Master,2-5 hours,None,Yes,No,Yes,Standard,8,66.0,68.4,74.0,69.5,Pass
+STU11195,Male,18,School A,Urban,Associate,5-10 hours,Completed,Yes,Yes,Yes,Standard,7,84.5,80.5,85.0,83.3,Pass
+STU11196,Female,22,School B,Urban,Some College,>10 hours,None,Yes,Yes,No,Standard,3,63.8,78.0,79.1,73.6,Pass
+STU11197,Female,17,School B,Urban,Associate,<2 hours,None,Yes,Yes,Yes,Reduced,8,63.4,81.7,77.1,74.1,Pass
+STU11198,Male,16,School B,Urban,Bachelor,5-10 hours,None,Yes,Yes,Yes,Reduced,3,94.6,85.9,91.9,90.8,Pass
+STU11199,Female,16,School B,Rural,Bachelor,5-10 hours,None,Yes,No,No,Standard,6,80.7,95.1,87.8,87.9,Pass
+STU11200,Male,18,School A,Rural,Bachelor,5-10 hours,None,Yes,No,No,Standard,4,53.2,58.9,54.6,55.6,Pass
